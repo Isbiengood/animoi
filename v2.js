@@ -11,12 +11,12 @@ function section(){const n=el('section',null,'panel v2-screen');main.insertBefor
 const home=section(),animal=section();
 for(const s of [profile,composer,preview])s.classList.add('v2-screen');
 const nav=el('nav',null,'v2-nav');nav.setAttribute('aria-label','Navigation Ani’Moi');main.insertBefore(nav,home);
-nav.append(button('🏠 Mes animaux',()=>show(home),true),button('✏️ Gérer les profils',()=>show(profile),true));
+nav.append(button('🏠 Mes animaux',()=>show(home),true),button('✏️ Gérer les profils',()=>openEditProfile(),true));
 home.append(el('h2','Quel animal prend la parole ? 🐾'));
 const cards=el('div',null,'v2-grid');home.append(cards,el('p','Les données restent sur ton appareil.','v2-muted'),button('+ Ajouter un animal',()=>{$('newPet').click();show(profile)}));
 animal.append(button('← Mes animaux',()=>show(home),true));
 const summary=el('div');summary.style.marginTop='18px';animal.append(summary);
-animal.append(button('✍️ Nouvelle histoire',()=>{$('story').value='';$('editPost').value='';$('output').textContent='Raconte une anecdote, choisis son ton et génère ta première publication.';$('cardCanvas').style.display='none';$('downloadArea').style.display='none';show(composer)}),button('Modifier le profil',()=>show(profile),true),el('h2','Ses publications'));
+animal.append(button('✍️ Nouvelle histoire',()=>{$('story').value='';$('editPost').value='';$('output').textContent='Raconte une anecdote, choisis son ton et génère ta première publication.';$('cardCanvas').style.display='none';$('downloadArea').style.display='none';show(composer)}),button('Modifier le profil',()=>openEditProfile(),true),el('h2','Ses publications'));
 const history=el('div');animal.append(history);
 composer.insertBefore(button('← Retour au profil',()=>show(animal),true),composer.firstChild);
 preview.insertBefore(button('← Corriger mon histoire',()=>show(composer),true),preview.firstChild);
@@ -24,6 +24,26 @@ const saveBtn=button('✅ Valider et enregistrer',savePost);$('copy').parentNode
 const POST_KEY='animoi-posts-v2';let posts=[];try{const a=JSON.parse(localStorage.getItem(POST_KEY)||'[]');if(Array.isArray(a))posts=a}catch{}
 function pets(){try{const a=JSON.parse(localStorage.getItem('animoi-pets-v1')||'[]');return Array.isArray(a)?a:[]}catch{return []}}
 let active=null;
+const profileTitle=profile.querySelector('h2');
+const animalSelectLabel=profile.querySelector('label[for="animalSelect"]');
+function setProfileMode(mode){
+ const creating=mode==='new';
+ profileTitle.textContent=creating?'Ajouter un nouvel animal 🐾':'Modifier le profil de ton animal';
+ animalSelectLabel.textContent='Choisir un profil existant';
+ animalSelectLabel.hidden=creating;
+ $('animalSelect').hidden=creating;
+ $('newPet').hidden=creating;
+ $('deletePet').hidden=creating;
+ $('savePet').textContent=creating?'Ajouter cet animal':'Enregistrer les modifications';
+}
+function openEditProfile(){
+ const existing=pets().find(p=>p.id===active)||pets().find(p=>p.id===$('animalSelect').value)||pets()[0];
+ if(!existing){$('newPet').click();show(profile);return}
+ $('animalSelect').value=existing.id;
+ $('animalSelect').dispatchEvent(new Event('change'));
+ setProfileMode('edit');
+ show(profile);
+}
 function show(screen){for(const s of [home,animal,profile,composer,preview])s.hidden=s!==screen;window.scrollTo(0,0)}
 function renderHome(){cards.replaceChildren();for(const p of pets()){const card=el('button',null,'v2-card');if(p.photo){const img=el('img');img.src=p.photo;img.alt='Photo de '+p.name;card.append(img)}else card.append(el('div','🐾','v2-emoji'));card.append(el('strong',p.name),el('small',[p.species,p.breed].filter(Boolean).join(' · ')));card.onclick=()=>choose(p);cards.append(card)}}
 function choose(p){active=p.id;$('animalSelect').value=p.id;$('animalSelect').dispatchEvent(new Event('change'));renderAnimal();show(animal)}
@@ -32,6 +52,6 @@ function savePost(){const text=$('editPost').value.trim();if(!text)return alert(
 $('generate').addEventListener('click',()=>{if($('story').value.trim() && $('editPost').value.trim())show(preview)});
 $('savePet').addEventListener('click',()=>{renderHome();const p=pets().find(x=>x.id===$('animalSelect').value);if(p)choose(p);else show(home)});
 $('deletePet').addEventListener('click',()=>{renderHome();show(home)});
-$('newPet').addEventListener('click',()=>show(profile));
+$('newPet').addEventListener('click',()=>{setProfileMode('new');show(profile)});
 show(home);renderHome();
 })();
