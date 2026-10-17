@@ -30,7 +30,7 @@ function setProfileMode(mode){
  const creating=mode==='new';
  profileTitle.textContent=creating?'Ajouter un nouvel animal 🐾':'Modifier le profil de ton animal';
  animalSelectLabel.textContent='Choisir un profil existant';
- animalSelectLabel.hidden=creating;
+ animalSelectLabel.hidden=creating;animalSelectLabel.style.display=creating?'none':'';
  $('animalSelect').hidden=creating;
  $('newPet').hidden=creating;
  $('deletePet').hidden=creating;
