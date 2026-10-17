@@ -27,7 +27,7 @@ help.textContent='1. Copie la légende complète (avec #AniMoi et #Espèce). 2. 
 const tagLine=document.createElement('p');tagLine.style.fontWeight='700';
 const optional=document.createElement('input');
 optional.id='optionalTags';
-optional.placeholder='Autres hashtags facultatifs : #Promenade #Humour';
+optional.placeholder='Ex. : promenade, humour, #chienheureux';
 optional.setAttribute('aria-label','Autres hashtags facultatifs');
 const caption=document.createElement('textarea');
 caption.id='animoiCaption';
@@ -41,17 +41,22 @@ validationStatus.style.fontSize='13px';
 const instruction=document.createElement('p');instruction.style.fontWeight='700';instruction.textContent='Avant Instagram / TikTok : copie d’abord cette légende complète 👇';
 const button=document.createElement('button');
 button.type='button';button.textContent='📋 Copier texte + tous les hashtags';
-controls.append(head,help,tagLine,optional,validate,validationStatus,instruction,caption,button);
+const guide=document.createElement('p');
+guide.textContent='Ajoute tes thèmes ci-dessous avec ou sans #, séparés par des espaces ou des virgules. Exemples : promenade, humour OU #promenade #humour. Pour plusieurs mots dans un seul hashtag, colle-les : vie de chien → VieDeChien.';
+controls.append(head,help,tagLine,guide,optional,validate,validationStatus,instruction,caption,button);
 const after=panel.querySelector('#editPost');
 after.insertAdjacentElement('afterend',controls);
 const normalizeTag=tag=>tag.normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^A-Za-z0-9_]/g,'');
+function parseTags(value){
+  return String(value||'').split(/[\s,;]+/u).map(t=>normalizeTag(t.replace(/^#+/,''))).filter(Boolean);
+}
 function build(){
  const animal=pet();
  const mandatory=['AniMoi',speciesTag(animal&&animal.species)];
  const raw=editor.value.trim();
  // Keep tags already entered by the author, including tags in the original text.
  const existing=(raw.match(/#[\p{L}\p{N}_]+/gu)||[]).map(t=>normalizeTag(t.slice(1))).filter(Boolean);
- const extra=(optional.value.match(/#[\p{L}\p{N}_]+/gu)||[]).map(t=>normalizeTag(t.slice(1))).filter(Boolean);
+ const extra=parseTags(optional.value);
  const all=[...mandatory,...existing,...extra];
  const seen=new Set();
  const tags=all.filter(t=>{const key=t.toLowerCase();if(seen.has(key))return false;seen.add(key);return true});
