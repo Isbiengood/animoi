@@ -16,7 +16,7 @@ home.append(el('h2','Quel animal prend la parole ? 🐾'));
 const cards=el('div',null,'v2-grid');home.append(cards,el('p','Les données restent sur ton appareil.','v2-muted'),button('+ Ajouter un animal',()=>{$('newPet').click();show(profile)}));
 animal.append(button('← Mes animaux',()=>show(home),true));
 const summary=el('div');summary.style.marginTop='18px';animal.append(summary);
-animal.append(button('✍️ Nouvelle histoire',()=>show(composer)),button('Modifier le profil',()=>show(profile),true),el('h2','Ses publications'));
+animal.append(button('✍️ Nouvelle histoire',()=>{$('story').value='';$('editPost').value='';$('output').textContent='Raconte une anecdote, choisis son ton et génère ta première publication.';$('cardCanvas').style.display='none';$('downloadArea').style.display='none';show(composer)}),button('Modifier le profil',()=>show(profile),true),el('h2','Ses publications'));
 const history=el('div');animal.append(history);
 composer.insertBefore(button('← Retour au profil',()=>show(animal),true),composer.firstChild);
 preview.insertBefore(button('← Corriger mon histoire',()=>show(composer),true),preview.firstChild);
@@ -29,7 +29,7 @@ function renderHome(){cards.replaceChildren();for(const p of pets()){const card=
 function choose(p){active=p.id;$('animalSelect').value=p.id;$('animalSelect').dispatchEvent(new Event('change'));renderAnimal();show(animal)}
 function renderAnimal(){const p=pets().find(p=>p.id===active);if(!p){renderHome();show(home);return}summary.replaceChildren();const head=el('div',null,'animal');if(p.photo){const img=el('img',null,'avatar');img.src=p.photo;img.alt=p.name;head.append(img)}else head.append(el('div','🐾','avatar'));const details=el('div');details.append(el('h2',p.name),el('p',[p.species,p.breed,p.traits].filter(Boolean).join(' · '),'v2-muted'));head.append(details);summary.append(head);history.replaceChildren();const mine=posts.filter(x=>x.petId===active).sort((a,b)=>b.date-a.date);if(!mine.length)history.append(el('p','Pas encore de publication.','v2-muted'));for(const post of mine){const item=el('article',null,'v2-post');item.append(el('small',new Date(post.date).toLocaleDateString('fr-FR'),'v2-muted'),el('p',post.text),button('Réutiliser',()=>{$('editPost').value=post.text;$('output').textContent=post.text;show(preview)},true));history.append(item)}}
 function savePost(){const text=$('editPost').value.trim();if(!text)return alert('Le texte est vide.');if(!active)return alert('Sélectionne un animal.');const next=[...posts,{id:'post-'+Date.now(),petId:active,text,date:Date.now()}];try{localStorage.setItem(POST_KEY,JSON.stringify(next))}catch{return alert('Stockage local insuffisant.')}posts=next;renderAnimal();show(animal)}
-$('generate').addEventListener('click',()=>{if($('editPost').value.trim())show(preview)});
+$('generate').addEventListener('click',()=>{if($('story').value.trim() && $('editPost').value.trim())show(preview)});
 $('savePet').addEventListener('click',()=>{renderHome();const p=pets().find(x=>x.id===$('animalSelect').value);if(p)choose(p);else show(home)});
 $('deletePet').addEventListener('click',()=>{renderHome();show(home)});
 $('newPet').addEventListener('click',()=>show(profile));
