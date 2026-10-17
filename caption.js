@@ -50,17 +50,17 @@ function build(){
  const mandatory=['AniMoi',speciesTag(animal&&animal.species)];
  const raw=editor.value.trim();
  // Keep tags already entered by the author, including tags in the original text.
- const existing=(raw.match(/#[\\p{L}\\p{N}_]+/gu)||[]).map(t=>normalizeTag(t.slice(1))).filter(Boolean);
- const extra=(optional.value.match(/#[\\p{L}\\p{N}_]+/gu)||[]).map(t=>normalizeTag(t.slice(1))).filter(Boolean);
+ const existing=(raw.match(/#[\p{L}\p{N}_]+/gu)||[]).map(t=>normalizeTag(t.slice(1))).filter(Boolean);
+ const extra=(optional.value.match(/#[\p{L}\p{N}_]+/gu)||[]).map(t=>normalizeTag(t.slice(1))).filter(Boolean);
  const all=[...mandatory,...existing,...extra];
  const seen=new Set();
  const tags=all.filter(t=>{const key=t.toLowerCase();if(seen.has(key))return false;seen.add(key);return true});
  // Remove only a terminal block consisting exclusively of hashtags; keep hashtags embedded in the story.
- const body=raw.replace(/(?:^|\\n)\\s*(?:#[\\p{L}\\p{N}_]+\\s*)+$/u,'').trim();
- const inline=new Set((body.match(/#[\\p{L}\\p{N}_]+/gu)||[]).map(t=>normalizeTag(t.slice(1)).toLowerCase()));
+ const body=raw.replace(/(?:^|\n)\s*(?:#[\p{L}\p{N}_]+\s*)+$/u,'').trim();
+ const inline=new Set((body.match(/#[\p{L}\p{N}_]+/gu)||[]).map(t=>normalizeTag(t.slice(1)).toLowerCase()));
  const ending=tags.filter(t=>!inline.has(t.toLowerCase())).map(t=>'#'+t);
  tagLine.textContent='#'+mandatory[0]+' #'+mandatory[1];
- caption.value=body+(ending.length?(body?'\\n\\n':'')+ending.join(' '):'');
+ caption.value=body+(ending.length?(body?'\n\n':'')+ending.join(' '):'');
  return caption.value;
 }
 validate.onclick=()=>{
