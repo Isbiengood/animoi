@@ -42,7 +42,7 @@ const instruction=document.createElement('p');instruction.style.fontWeight='700'
 const button=document.createElement('button');
 button.type='button';button.textContent='📋 Copier texte + tous les hashtags';
 const guide=document.createElement('p');
-guide.textContent='Ajoute tes thèmes ci-dessous avec ou sans #, séparés par des espaces ou des virgules. Exemples : promenade, humour OU #promenade #humour. Pour plusieurs mots dans un seul hashtag, colle-les : vie de chien → VieDeChien.';
+guide.textContent='Saisis par exemple : Nevers, #promenade. Tu peux utiliser ou non #, et séparer les mots par des virgules ou des espaces. Appuie sur « Valider » pour les ajouter à ton texte.';
 controls.append(head,help,tagLine,guide,optional,validate,validationStatus,instruction,caption,button);
 const after=panel.querySelector('#editPost');
 after.insertAdjacentElement('afterend',controls);
@@ -64,7 +64,7 @@ function build(){
  const body=raw.replace(/(?:^|\n)\s*(?:#[\p{L}\p{N}_]+\s*)+$/u,'').trim();
  const inline=new Set((body.match(/#[\p{L}\p{N}_]+/gu)||[]).map(t=>normalizeTag(t.slice(1)).toLowerCase()));
  const ending=tags.filter(t=>!inline.has(t.toLowerCase())).map(t=>'#'+t);
- tagLine.textContent='#'+mandatory[0]+' #'+mandatory[1];
+ tagLine.textContent=tags.map(t=>'#'+t).join(' ');
  caption.value=body+(ending.length?(body?'\n\n':'')+ending.join(' '):'');
  return caption.value;
 }
@@ -75,7 +75,7 @@ validate.onclick=()=>{
  editor.dispatchEvent(new Event('input',{bubbles:true}));
  optional.value='';
  build();
- validationStatus.textContent='✅ Hashtags enregistrés dans le texte de ta publication.';
+ validationStatus.textContent='✅ Hashtags ajoutés : '+(updated.match(/#[\p{L}\p{N}_]+/gu)||[]).join(' ');
  feedback.textContent='Hashtags validés : tu peux maintenant copier la légende complète.';
 };
 optional.addEventListener('input',()=>{validationStatus.textContent='Appuie sur « Valider les hashtags » pour les enregistrer dans ton texte.'});
