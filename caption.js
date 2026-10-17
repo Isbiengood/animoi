@@ -33,24 +33,48 @@ const caption=document.createElement('textarea');
 caption.id='animoiCaption';
 caption.rows=6;caption.readOnly=true;
 caption.setAttribute('aria-label','Légende complète à copier');
+const validate=document.createElement('button');
+validate.type='button';validate.textContent='✅ Valider les hashtags dans ma publication';
+const validationStatus=document.createElement('p');
+validationStatus.setAttribute('aria-live','polite');
+validationStatus.style.fontSize='13px';
 const instruction=document.createElement('p');instruction.style.fontWeight='700';instruction.textContent='Avant Instagram / TikTok : copie d’abord cette légende complète 👇';
 const button=document.createElement('button');
 button.type='button';button.textContent='📋 Copier texte + tous les hashtags';
-controls.append(head,help,tagLine,optional,instruction,caption,button);
+controls.append(head,help,tagLine,optional,validate,validationStatus,instruction,caption,button);
 const after=panel.querySelector('#editPost');
 after.insertAdjacentElement('afterend',controls);
 const normalizeTag=tag=>tag.normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^A-Za-z0-9_]/g,'');
 function build(){
  const animal=pet();
  const mandatory=['AniMoi',speciesTag(animal&&animal.species)];
- const stripped=editor.value.replace(/(?:^|\s)#AniMoi\b/gi,'').replace(new RegExp('(?:^|\\s)#'+mandatory[1]+'\\b','gi'),'').trim();
- const extra=(optional.value.match(/#[\p{L}\p{N}_]+/gu)||[]).map(x=>normalizeTag(x.slice(1))).filter(Boolean);
- const dedup=[...new Set([...mandatory,...extra].map(x=>x.toLowerCase()))];
- const tagStrings=dedup.map(x=>'#'+([...mandatory,...extra].find(t=>t.toLowerCase()===x)));
- tagLine.textContent=tagStrings.slice(0,2).join(' ');
- caption.value=(stripped?stripped+'\n\n':'')+tagStrings.join(' ');
+ const raw=editor.value.trim();
+ // Keep tags already entered by the author, including tags in the original text.
+ const existing=(raw.match(/#[\\p{L}\\p{N}_]+/gu)||[]).map(t=>normalizeTag(t.slice(1))).filter(Boolean);
+ const extra=(optional.value.match(/#[\\p{L}\\p{N}_]+/gu)||[]).map(t=>normalizeTag(t.slice(1))).filter(Boolean);
+ const all=[...mandatory,...existing,...extra];
+ const seen=new Set();
+ const tags=all.filter(t=>{const key=t.toLowerCase();if(seen.has(key))return false;seen.add(key);return true});
+ // Remove only a terminal block consisting exclusively of hashtags; keep hashtags embedded in the story.
+ const body=raw.replace(/(?:^|\\n)\\s*(?:#[\\p{L}\\p{N}_]+\\s*)+$/u,'').trim();
+ const inline=new Set((body.match(/#[\\p{L}\\p{N}_]+/gu)||[]).map(t=>normalizeTag(t.slice(1)).toLowerCase()));
+ const ending=tags.filter(t=>!inline.has(t.toLowerCase())).map(t=>'#'+t);
+ tagLine.textContent='#'+mandatory[0]+' #'+mandatory[1];
+ caption.value=body+(ending.length?(body?'\\n\\n':'')+ending.join(' '):'');
  return caption.value;
 }
+validate.onclick=()=>{
+ const updated=build();
+ if(!updated)return;
+ editor.value=updated;
+ editor.dispatchEvent(new Event('input',{bubbles:true}));
+ optional.value='';
+ build();
+ validationStatus.textContent='✅ Hashtags enregistrés dans le texte de ta publication.';
+ feedback.textContent='Hashtags validés : tu peux maintenant copier la légende complète.';
+};
+optional.addEventListener('input',()=>{validationStatus.textContent='Appuie sur « Valider les hashtags » pour les enregistrer dans ton texte.'});
+
 button.onclick=async()=>{try{await navigator.clipboard.writeText(build());feedback.textContent='Légende complète et hashtags copiés.'}catch{caption.focus();caption.select();feedback.textContent='Sélectionne puis copie la légende.'}};
 editor.addEventListener('input',build);
 optional.addEventListener('input',build);
