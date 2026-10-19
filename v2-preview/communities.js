@@ -2,20 +2,21 @@
 const main=document.querySelector('main'),nav=document.querySelector('.v2-nav');
 if(!main||!nav)return;
 const allScreens=()=>[...main.querySelectorAll(':scope > section.panel')];
-const localPets=()=>{try{const x=JSON.parse(localStorage.getItem('animoi-pets-v1')||'[]');return Array.isArray(x)?x:[]}catch{return []}};
-const localPosts=()=>{try{const x=JSON.parse(localStorage.getItem('animoi-posts-v2')||'[]');return Array.isArray(x)?x:[]}catch{return []}};
+const localPets=()=>AniMoiData.read().pets;
+const localPosts=()=>AniMoiData.read().posts;
 const groups=[
 {id:'all',title:'Tous',emoji:'🌍'},
 {id:'chien',title:'Chiens',emoji:'🐶'},
 {id:'chat',title:'Chats',emoji:'🐱'},
 {id:'oiseau',title:'Oiseaux',emoji:'🐦'},
 {id:'poisson',title:'Poissons',emoji:'🐠'},
+{id:'cheval',title:'Chevaux',emoji:'🐴'},
 {id:'hamster',title:'Hamsters',emoji:'🐹'},
 {id:'lapin',title:'Lapins',emoji:'🐰'},
 {id:'other',title:'Autres',emoji:'🐾'}];
 function category(species){
 const s=String(species||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
-if(['chien','chat','hamster','lapin','poisson','oiseau'].includes(s))return s;
+if(['chien','chat','hamster','lapin','poisson','oiseau','cheval'].includes(s))return s;
 if(s==='poissons')return 'poisson';if(s==='oiseaux')return 'oiseau';
 return 'other';
 }
@@ -34,7 +35,7 @@ const feed=document.createElement('div');
 board.append(title,intro,tabs,count,feed);
 let selected='all';
 function displayCommunity(){for(const p of allScreens())p.hidden=p!==board;render();window.scrollTo(0,0)}
-const button=document.createElement('button');button.type='button';button.className='secondary';button.textContent='💬 Communautés';button.onclick=displayCommunity;nav.append(button);
+const button=document.createElement('button');button.type='button';button.className='secondary';AniMoiI18n.bind(button,'nav.communities');button.onclick=displayCommunity;nav.append(button);
 function render(){
 tabs.replaceChildren();
 for(const group of groups){
@@ -50,8 +51,8 @@ for(const post of visible){
 const pet=byId.get(post.petId),article=document.createElement('article');article.className='community-entry';
 const who=document.createElement('div');who.className='community-author';
 if(pet.photo){const img=document.createElement('img');img.src=pet.photo;img.alt='Photo de '+pet.name;who.append(img)}else{const avatar=document.createElement('span');avatar.className='community-avatar';avatar.textContent='🐾';who.append(avatar)}
-const desc=document.createElement('div'),name=document.createElement('strong');name.textContent=pet.name||'Animal';const meta=document.createElement('div');meta.className='muted';meta.textContent=[pet.species,new Date(post.date).toLocaleDateString('fr-FR')].filter(Boolean).join(' · ');desc.append(name,meta);who.append(desc);
-const story=document.createElement('p');story.className='community-story';story.textContent=post.text||'';
+const desc=document.createElement('div'),name=document.createElement('strong');name.textContent=pet.name||'Animal';const meta=document.createElement('div');meta.className='muted';meta.textContent=[pet.species,AniMoiI18n.date(post.date)].filter(Boolean).join(' · ');desc.append(name,meta);who.append(desc);
+const story=document.createElement('p');story.className='community-story';story.textContent=post.text||'';story.lang=post.originalLanguage||'und';
 const tags=document.createElement('div');tags.className='community-tag';tags.textContent='#AniMoi #'+(pet.species||'Animaux').replace(/[^a-zA-Z0-9]/g,'');
 article.append(who,story,tags);feed.append(article);
 }
