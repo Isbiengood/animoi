@@ -11,7 +11,7 @@ const speciesTag=species=>{
 window.AniMoiCategories=Object.freeze(['Tous','Chien','Chat','Poisson','Oiseau','Hamster','Lapin','Cheval','Reptile','Animaux']);
 function pet(){
   try {
-    const animals=JSON.parse(localStorage.getItem('animoi-pets-v1')||'[]');
+    const animals=AniMoiData.read().pets;
     const id=$('animalSelect').value;
     return Array.isArray(animals)?animals.find(x=>x.id===id):null;
   }catch{return null}

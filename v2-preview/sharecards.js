@@ -27,7 +27,7 @@
   const cleanName = value => (value || 'mon-animal').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9-]+/g,'-').replace(/^-|-$/g,'').slice(0,36);
   function currentPet(){
     try {
-      const pets=JSON.parse(localStorage.getItem('animoi-pets-v1')||'[]');
+      const pets=AniMoiData.read().pets;
       return pets.find(p=>p.id===get('animalSelect').value) || {name:'Mon animal',species:'',breed:'',photo:''};
     } catch {return {name:'Mon animal',species:'',breed:'',photo:''};}
   }
