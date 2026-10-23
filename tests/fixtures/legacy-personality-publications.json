@@ -1,0 +1,886 @@
+{
+  "description": "Synthetic exact V9 generated stories; historical display compatibility only.",
+  "profile": {
+    "id": "personality-synthetic",
+    "name": "Animal fictif",
+    "species": "Chien",
+    "breed": "Origine fictive",
+    "traits": "joueur, calme, curieux",
+    "photo": "",
+    "characteristics": {
+      "version": 1,
+      "breed": {
+        "status": "selected",
+        "ids": [],
+        "primaryId": null,
+        "custom": [
+          "Origine fictive"
+        ]
+      },
+      "temperament": {
+        "ids": [
+          "playful",
+          "calm",
+          "curious"
+        ],
+        "custom": [
+          "Trait personnel fictif"
+        ],
+        "dominant": [
+          "id:playful",
+          "id:calm",
+          "id:curious"
+        ]
+      }
+    }
+  },
+  "stories": {
+    "fr": "Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque",
+    "en": "My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand",
+    "es": "Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca",
+    "de": "Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke",
+    "it": "Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio"
+  },
+  "cases": [
+    {
+      "locale": "fr",
+      "rubric": "pawbook",
+      "tone": "drôle",
+      "text": "COMMUNIQUÉ OFFICIEL 🐾\n\nCher journal,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nJ’exige réparation sous forme de friandises. Sans négociation. 😂\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "pawbook",
+      "tone": "sérieux",
+      "text": "UNE QUESTION IMPORTANTE 🐾\n\nCher journal,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nMerci de prendre cette question très au sérieux. 🐾\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "pawbook",
+      "tone": "triste",
+      "text": "UN PETIT MOMENT DE MÉLANCOLIE 💜\n\nCher journal,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nUn peu de douceur me ferait du bien aujourd’hui. 💜\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "pawbook",
+      "tone": "tendre",
+      "text": "LE BONHEUR EST DANS LES PETITS RIENS ❤️\n\nCher journal,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nEt malgré tout, je ne changerais mon humain pour rien au monde. ❤️\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "pawbook",
+      "tone": "en colère",
+      "text": "JE DÉPOSE UNE RÉCLAMATION ! 😤\n\nCher journal,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nLe syndicat des pattes libres a été prévenu. 😤\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "pawbook",
+      "tone": "dramatique",
+      "text": "TRAGÉDIE EN TROIS ACTES 🎭\n\nCher journal,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nLa suite au prochain épisode… si mon cœur le supporte. 🎭\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "pawbook",
+      "tone": "philosophe",
+      "text": "PENSÉE DU JOUR 🌿\n\nCher journal,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nLa vie est courte : prenons le temps de renifler les roses. 🌿\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "sav",
+      "tone": "drôle",
+      "text": "COMMUNIQUÉ OFFICIEL 🐾\n\nÀ l’attention du service réclamations des humains,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nJ’exige réparation sous forme de friandises. Sans négociation. 😂\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "sav",
+      "tone": "sérieux",
+      "text": "UNE QUESTION IMPORTANTE 🐾\n\nÀ l’attention du service réclamations des humains,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nMerci de prendre cette question très au sérieux. 🐾\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "sav",
+      "tone": "triste",
+      "text": "UN PETIT MOMENT DE MÉLANCOLIE 💜\n\nÀ l’attention du service réclamations des humains,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nUn peu de douceur me ferait du bien aujourd’hui. 💜\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "sav",
+      "tone": "tendre",
+      "text": "LE BONHEUR EST DANS LES PETITS RIENS ❤️\n\nÀ l’attention du service réclamations des humains,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nEt malgré tout, je ne changerais mon humain pour rien au monde. ❤️\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "sav",
+      "tone": "en colère",
+      "text": "JE DÉPOSE UNE RÉCLAMATION ! 😤\n\nÀ l’attention du service réclamations des humains,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nLe syndicat des pattes libres a été prévenu. 😤\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "sav",
+      "tone": "dramatique",
+      "text": "TRAGÉDIE EN TROIS ACTES 🎭\n\nÀ l’attention du service réclamations des humains,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nLa suite au prochain épisode… si mon cœur le supporte. 🎭\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "sav",
+      "tone": "philosophe",
+      "text": "PENSÉE DU JOUR 🌿\n\nÀ l’attention du service réclamations des humains,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nLa vie est courte : prenons le temps de renifler les roses. 🌿\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "linkedin",
+      "tone": "drôle",
+      "text": "COMMUNIQUÉ OFFICIEL 🐾\n\nNote interne de la direction des opérations domestiques,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nJ’exige réparation sous forme de friandises. Sans négociation. 😂\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "linkedin",
+      "tone": "sérieux",
+      "text": "UNE QUESTION IMPORTANTE 🐾\n\nNote interne de la direction des opérations domestiques,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nMerci de prendre cette question très au sérieux. 🐾\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "linkedin",
+      "tone": "triste",
+      "text": "UN PETIT MOMENT DE MÉLANCOLIE 💜\n\nNote interne de la direction des opérations domestiques,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nUn peu de douceur me ferait du bien aujourd’hui. 💜\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "linkedin",
+      "tone": "tendre",
+      "text": "LE BONHEUR EST DANS LES PETITS RIENS ❤️\n\nNote interne de la direction des opérations domestiques,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nEt malgré tout, je ne changerais mon humain pour rien au monde. ❤️\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "linkedin",
+      "tone": "en colère",
+      "text": "JE DÉPOSE UNE RÉCLAMATION ! 😤\n\nNote interne de la direction des opérations domestiques,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nLe syndicat des pattes libres a été prévenu. 😤\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "linkedin",
+      "tone": "dramatique",
+      "text": "TRAGÉDIE EN TROIS ACTES 🎭\n\nNote interne de la direction des opérations domestiques,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nLa suite au prochain épisode… si mon cœur le supporte. 🎭\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "linkedin",
+      "tone": "philosophe",
+      "text": "PENSÉE DU JOUR 🌿\n\nNote interne de la direction des opérations domestiques,\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nLa vie est courte : prenons le temps de renifler les roses. 🌿\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "potins",
+      "tone": "drôle",
+      "text": "COMMUNIQUÉ OFFICIEL 🐾\n\nEXCLUSIVITÉ — La presse animalière révèle :\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nJ’exige réparation sous forme de friandises. Sans négociation. 😂\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "potins",
+      "tone": "sérieux",
+      "text": "UNE QUESTION IMPORTANTE 🐾\n\nEXCLUSIVITÉ — La presse animalière révèle :\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nMerci de prendre cette question très au sérieux. 🐾\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "potins",
+      "tone": "triste",
+      "text": "UN PETIT MOMENT DE MÉLANCOLIE 💜\n\nEXCLUSIVITÉ — La presse animalière révèle :\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nUn peu de douceur me ferait du bien aujourd’hui. 💜\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "potins",
+      "tone": "tendre",
+      "text": "LE BONHEUR EST DANS LES PETITS RIENS ❤️\n\nEXCLUSIVITÉ — La presse animalière révèle :\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nEt malgré tout, je ne changerais mon humain pour rien au monde. ❤️\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "potins",
+      "tone": "en colère",
+      "text": "JE DÉPOSE UNE RÉCLAMATION ! 😤\n\nEXCLUSIVITÉ — La presse animalière révèle :\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nLe syndicat des pattes libres a été prévenu. 😤\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "potins",
+      "tone": "dramatique",
+      "text": "TRAGÉDIE EN TROIS ACTES 🎭\n\nEXCLUSIVITÉ — La presse animalière révèle :\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nLa suite au prochain épisode… si mon cœur le supporte. 🎭\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "fr",
+      "rubric": "potins",
+      "tone": "philosophe",
+      "text": "PENSÉE DU JOUR 🌿\n\nEXCLUSIVITÉ — La presse animalière révèle :\n\nVoici les faits selon mon humain : « Mon humain et moi avons couru dans le jardin ce matin. Je reste curieux et calme. #MaMarque »\n\nMoi, Animal fictif, chien Origine fictive, je tiens à faire entendre ma version.\n\nMon caractère : Joueur, Calme, Curieux, Trait personnel fictif. Moi, je transforme chaque imprévu en terrain de jeu. Je prends le temps de savourer les petits moments. Il faut absolument que j’explore cette affaire.\n\nLa vie est courte : prenons le temps de renifler les roses. 🌿\n\n#Animoi #VieDAnimal #Chien"
+    },
+    {
+      "locale": "en",
+      "rubric": "pawbook",
+      "tone": "drôle",
+      "text": "OFFICIAL STATEMENT 🐾\n\nDear diary,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI demand compensation in treats. No negotiations. 😂\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "pawbook",
+      "tone": "sérieux",
+      "text": "AN IMPORTANT MATTER 🐾\n\nDear diary,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI ask for this matter to be taken very seriously. 🐾\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "pawbook",
+      "tone": "triste",
+      "text": "A LITTLE MOMENT OF SADNESS 💜\n\nDear diary,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI could use a little kindness today. 💜\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "pawbook",
+      "tone": "tendre",
+      "text": "HAPPINESS IS IN THE LITTLE THINGS ❤️\n\nDear diary,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nAnd after all that, I would not trade my human for anything. ❤️\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "pawbook",
+      "tone": "en colère",
+      "text": "I AM FILING A COMPLAINT! 😤\n\nDear diary,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI have notified the free paws union. 😤\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "pawbook",
+      "tone": "dramatique",
+      "text": "A TRAGEDY IN THREE ACTS 🎭\n\nDear diary,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nMy story continues next time… if my heart can bear it. 🎭\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "pawbook",
+      "tone": "philosophe",
+      "text": "THOUGHT OF THE DAY 🌿\n\nDear diary,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nLife is short: I will take time to sniff the roses. 🌿\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "sav",
+      "tone": "drôle",
+      "text": "OFFICIAL STATEMENT 🐾\n\nTo the human complaints department,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI demand compensation in treats. No negotiations. 😂\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "sav",
+      "tone": "sérieux",
+      "text": "AN IMPORTANT MATTER 🐾\n\nTo the human complaints department,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI ask for this matter to be taken very seriously. 🐾\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "sav",
+      "tone": "triste",
+      "text": "A LITTLE MOMENT OF SADNESS 💜\n\nTo the human complaints department,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI could use a little kindness today. 💜\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "sav",
+      "tone": "tendre",
+      "text": "HAPPINESS IS IN THE LITTLE THINGS ❤️\n\nTo the human complaints department,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nAnd after all that, I would not trade my human for anything. ❤️\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "sav",
+      "tone": "en colère",
+      "text": "I AM FILING A COMPLAINT! 😤\n\nTo the human complaints department,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI have notified the free paws union. 😤\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "sav",
+      "tone": "dramatique",
+      "text": "A TRAGEDY IN THREE ACTS 🎭\n\nTo the human complaints department,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nMy story continues next time… if my heart can bear it. 🎭\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "sav",
+      "tone": "philosophe",
+      "text": "THOUGHT OF THE DAY 🌿\n\nTo the human complaints department,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nLife is short: I will take time to sniff the roses. 🌿\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "linkedin",
+      "tone": "drôle",
+      "text": "OFFICIAL STATEMENT 🐾\n\nInternal memo from the director of household operations,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI demand compensation in treats. No negotiations. 😂\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "linkedin",
+      "tone": "sérieux",
+      "text": "AN IMPORTANT MATTER 🐾\n\nInternal memo from the director of household operations,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI ask for this matter to be taken very seriously. 🐾\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "linkedin",
+      "tone": "triste",
+      "text": "A LITTLE MOMENT OF SADNESS 💜\n\nInternal memo from the director of household operations,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI could use a little kindness today. 💜\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "linkedin",
+      "tone": "tendre",
+      "text": "HAPPINESS IS IN THE LITTLE THINGS ❤️\n\nInternal memo from the director of household operations,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nAnd after all that, I would not trade my human for anything. ❤️\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "linkedin",
+      "tone": "en colère",
+      "text": "I AM FILING A COMPLAINT! 😤\n\nInternal memo from the director of household operations,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI have notified the free paws union. 😤\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "linkedin",
+      "tone": "dramatique",
+      "text": "A TRAGEDY IN THREE ACTS 🎭\n\nInternal memo from the director of household operations,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nMy story continues next time… if my heart can bear it. 🎭\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "linkedin",
+      "tone": "philosophe",
+      "text": "THOUGHT OF THE DAY 🌿\n\nInternal memo from the director of household operations,\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nLife is short: I will take time to sniff the roses. 🌿\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "potins",
+      "tone": "drôle",
+      "text": "OFFICIAL STATEMENT 🐾\n\nEXCLUSIVE — Breaking news from the animal press:\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI demand compensation in treats. No negotiations. 😂\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "potins",
+      "tone": "sérieux",
+      "text": "AN IMPORTANT MATTER 🐾\n\nEXCLUSIVE — Breaking news from the animal press:\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI ask for this matter to be taken very seriously. 🐾\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "potins",
+      "tone": "triste",
+      "text": "A LITTLE MOMENT OF SADNESS 💜\n\nEXCLUSIVE — Breaking news from the animal press:\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI could use a little kindness today. 💜\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "potins",
+      "tone": "tendre",
+      "text": "HAPPINESS IS IN THE LITTLE THINGS ❤️\n\nEXCLUSIVE — Breaking news from the animal press:\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nAnd after all that, I would not trade my human for anything. ❤️\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "potins",
+      "tone": "en colère",
+      "text": "I AM FILING A COMPLAINT! 😤\n\nEXCLUSIVE — Breaking news from the animal press:\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nI have notified the free paws union. 😤\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "potins",
+      "tone": "dramatique",
+      "text": "A TRAGEDY IN THREE ACTS 🎭\n\nEXCLUSIVE — Breaking news from the animal press:\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nMy story continues next time… if my heart can bear it. 🎭\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "en",
+      "rubric": "potins",
+      "tone": "philosophe",
+      "text": "THOUGHT OF THE DAY 🌿\n\nEXCLUSIVE — Breaking news from the animal press:\n\nHere is what my human says happened: « My human wanted to go for a walk but it was raining this morning. I feel calm. #MyBrand »\n\nI am Animal fictif, a dog (Origine fictive). This is my side of the story.\n\nMy personality: Playful, Calm, Curious, Trait personnel fictif. I tell this adventure in my own way.\n\nLife is short: I will take time to sniff the roses. 🌿\n\n#Animoi #AnimalLife #Dog"
+    },
+    {
+      "locale": "es",
+      "rubric": "pawbook",
+      "tone": "drôle",
+      "text": "COMUNICADO OFICIAL 🐾\n\nQuerido diario:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nExijo una compensación en golosinas. Sin negociación. 😂\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "pawbook",
+      "tone": "sérieux",
+      "text": "UN ASUNTO IMPORTANTE 🐾\n\nQuerido diario:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nPido que este asunto se tome muy en serio. 🐾\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "pawbook",
+      "tone": "triste",
+      "text": "UN PEQUEÑO MOMENTO DE TRISTEZA 💜\n\nQuerido diario:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nHoy me vendría bien un poco de cariño. 💜\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "pawbook",
+      "tone": "tendre",
+      "text": "LA FELICIDAD ESTÁ EN LAS PEQUEÑAS COSAS ❤️\n\nQuerido diario:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nY, a pesar de todo, no cambiaría a mi humano por nada del mundo. ❤️\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "pawbook",
+      "tone": "en colère",
+      "text": "¡PRESENTO UNA RECLAMACIÓN! 😤\n\nQuerido diario:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nHe avisado al sindicato de las patas libres. 😤\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "pawbook",
+      "tone": "dramatique",
+      "text": "TRAGEDIA EN TRES ACTOS 🎭\n\nQuerido diario:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nMi historia continuará… si mi corazón lo soporta. 🎭\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "pawbook",
+      "tone": "philosophe",
+      "text": "REFLEXIÓN DEL DÍA 🌿\n\nQuerido diario:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nLa vida es corta: me tomaré tiempo para oler las rosas. 🌿\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "sav",
+      "tone": "drôle",
+      "text": "COMUNICADO OFICIAL 🐾\n\nA la atención del departamento de reclamaciones de los humanos:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nExijo una compensación en golosinas. Sin negociación. 😂\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "sav",
+      "tone": "sérieux",
+      "text": "UN ASUNTO IMPORTANTE 🐾\n\nA la atención del departamento de reclamaciones de los humanos:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nPido que este asunto se tome muy en serio. 🐾\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "sav",
+      "tone": "triste",
+      "text": "UN PEQUEÑO MOMENTO DE TRISTEZA 💜\n\nA la atención del departamento de reclamaciones de los humanos:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nHoy me vendría bien un poco de cariño. 💜\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "sav",
+      "tone": "tendre",
+      "text": "LA FELICIDAD ESTÁ EN LAS PEQUEÑAS COSAS ❤️\n\nA la atención del departamento de reclamaciones de los humanos:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nY, a pesar de todo, no cambiaría a mi humano por nada del mundo. ❤️\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "sav",
+      "tone": "en colère",
+      "text": "¡PRESENTO UNA RECLAMACIÓN! 😤\n\nA la atención del departamento de reclamaciones de los humanos:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nHe avisado al sindicato de las patas libres. 😤\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "sav",
+      "tone": "dramatique",
+      "text": "TRAGEDIA EN TRES ACTOS 🎭\n\nA la atención del departamento de reclamaciones de los humanos:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nMi historia continuará… si mi corazón lo soporta. 🎭\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "sav",
+      "tone": "philosophe",
+      "text": "REFLEXIÓN DEL DÍA 🌿\n\nA la atención del departamento de reclamaciones de los humanos:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nLa vida es corta: me tomaré tiempo para oler las rosas. 🌿\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "linkedin",
+      "tone": "drôle",
+      "text": "COMUNICADO OFICIAL 🐾\n\nNota interna de la dirección de operaciones domésticas:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nExijo una compensación en golosinas. Sin negociación. 😂\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "linkedin",
+      "tone": "sérieux",
+      "text": "UN ASUNTO IMPORTANTE 🐾\n\nNota interna de la dirección de operaciones domésticas:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nPido que este asunto se tome muy en serio. 🐾\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "linkedin",
+      "tone": "triste",
+      "text": "UN PEQUEÑO MOMENTO DE TRISTEZA 💜\n\nNota interna de la dirección de operaciones domésticas:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nHoy me vendría bien un poco de cariño. 💜\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "linkedin",
+      "tone": "tendre",
+      "text": "LA FELICIDAD ESTÁ EN LAS PEQUEÑAS COSAS ❤️\n\nNota interna de la dirección de operaciones domésticas:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nY, a pesar de todo, no cambiaría a mi humano por nada del mundo. ❤️\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "linkedin",
+      "tone": "en colère",
+      "text": "¡PRESENTO UNA RECLAMACIÓN! 😤\n\nNota interna de la dirección de operaciones domésticas:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nHe avisado al sindicato de las patas libres. 😤\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "linkedin",
+      "tone": "dramatique",
+      "text": "TRAGEDIA EN TRES ACTOS 🎭\n\nNota interna de la dirección de operaciones domésticas:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nMi historia continuará… si mi corazón lo soporta. 🎭\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "linkedin",
+      "tone": "philosophe",
+      "text": "REFLEXIÓN DEL DÍA 🌿\n\nNota interna de la dirección de operaciones domésticas:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nLa vida es corta: me tomaré tiempo para oler las rosas. 🌿\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "potins",
+      "tone": "drôle",
+      "text": "COMUNICADO OFICIAL 🐾\n\nEXCLUSIVA — La prensa animal revela:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nExijo una compensación en golosinas. Sin negociación. 😂\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "potins",
+      "tone": "sérieux",
+      "text": "UN ASUNTO IMPORTANTE 🐾\n\nEXCLUSIVA — La prensa animal revela:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nPido que este asunto se tome muy en serio. 🐾\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "potins",
+      "tone": "triste",
+      "text": "UN PEQUEÑO MOMENTO DE TRISTEZA 💜\n\nEXCLUSIVA — La prensa animal revela:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nHoy me vendría bien un poco de cariño. 💜\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "potins",
+      "tone": "tendre",
+      "text": "LA FELICIDAD ESTÁ EN LAS PEQUEÑAS COSAS ❤️\n\nEXCLUSIVA — La prensa animal revela:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nY, a pesar de todo, no cambiaría a mi humano por nada del mundo. ❤️\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "potins",
+      "tone": "en colère",
+      "text": "¡PRESENTO UNA RECLAMACIÓN! 😤\n\nEXCLUSIVA — La prensa animal revela:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nHe avisado al sindicato de las patas libres. 😤\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "potins",
+      "tone": "dramatique",
+      "text": "TRAGEDIA EN TRES ACTOS 🎭\n\nEXCLUSIVA — La prensa animal revela:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nMi historia continuará… si mi corazón lo soporta. 🎭\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "es",
+      "rubric": "potins",
+      "tone": "philosophe",
+      "text": "REFLEXIÓN DEL DÍA 🌿\n\nEXCLUSIVA — La prensa animal revela:\n\nEsto es lo que cuenta mi humano: « Mi humano queria continuar el paseo pero estaba lloviendo mucho hoy. #MiMarca »\n\nSoy Animal fictif, un perro (Origine fictive). Quiero contar mi versión de la historia.\n\nMi carácter: Juguetón, Tranquilo, Curioso, Trait personnel fictif. Cuento esta aventura a mi manera.\n\nLa vida es corta: me tomaré tiempo para oler las rosas. 🌿\n\n#Animoi #VidaAnimal #Perro"
+    },
+    {
+      "locale": "de",
+      "rubric": "pawbook",
+      "tone": "drôle",
+      "text": "OFFIZIELLE MITTEILUNG 🐾\n\nLiebes Tagebuch,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nIch fordere Entschädigung in Leckerlis. Nicht verhandelbar. 😂\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "pawbook",
+      "tone": "sérieux",
+      "text": "EINE WICHTIGE ANGELEGENHEIT 🐾\n\nLiebes Tagebuch,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nIch bitte darum, diese Angelegenheit sehr ernst zu nehmen. 🐾\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "pawbook",
+      "tone": "triste",
+      "text": "EIN KLEINER MOMENT DER TRAURIGKEIT 💜\n\nLiebes Tagebuch,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nEin bisschen Zuneigung würde mir heute guttun. 💜\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "pawbook",
+      "tone": "tendre",
+      "text": "DAS GLÜCK LIEGT IN DEN KLEINEN DINGEN ❤️\n\nLiebes Tagebuch,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nUnd trotzdem würde ich meinen Menschen gegen nichts auf der Welt eintauschen. ❤️\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "pawbook",
+      "tone": "en colère",
+      "text": "ICH REICHE BESCHWERDE EIN! 😤\n\nLiebes Tagebuch,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nIch habe die Gewerkschaft der freien Pfoten informiert. 😤\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "pawbook",
+      "tone": "dramatique",
+      "text": "EINE TRAGÖDIE IN DREI AKTEN 🎭\n\nLiebes Tagebuch,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nMeine Geschichte geht weiter… wenn mein Herz das aushält. 🎭\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "pawbook",
+      "tone": "philosophe",
+      "text": "GEDANKE DES TAGES 🌿\n\nLiebes Tagebuch,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nDas Leben ist kurz: Ich nehme mir Zeit, an den Rosen zu schnuppern. 🌿\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "sav",
+      "tone": "drôle",
+      "text": "OFFIZIELLE MITTEILUNG 🐾\n\nAn die Beschwerdestelle für Menschen,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nIch fordere Entschädigung in Leckerlis. Nicht verhandelbar. 😂\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "sav",
+      "tone": "sérieux",
+      "text": "EINE WICHTIGE ANGELEGENHEIT 🐾\n\nAn die Beschwerdestelle für Menschen,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nIch bitte darum, diese Angelegenheit sehr ernst zu nehmen. 🐾\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "sav",
+      "tone": "triste",
+      "text": "EIN KLEINER MOMENT DER TRAURIGKEIT 💜\n\nAn die Beschwerdestelle für Menschen,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nEin bisschen Zuneigung würde mir heute guttun. 💜\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "sav",
+      "tone": "tendre",
+      "text": "DAS GLÜCK LIEGT IN DEN KLEINEN DINGEN ❤️\n\nAn die Beschwerdestelle für Menschen,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nUnd trotzdem würde ich meinen Menschen gegen nichts auf der Welt eintauschen. ❤️\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "sav",
+      "tone": "en colère",
+      "text": "ICH REICHE BESCHWERDE EIN! 😤\n\nAn die Beschwerdestelle für Menschen,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nIch habe die Gewerkschaft der freien Pfoten informiert. 😤\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "sav",
+      "tone": "dramatique",
+      "text": "EINE TRAGÖDIE IN DREI AKTEN 🎭\n\nAn die Beschwerdestelle für Menschen,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nMeine Geschichte geht weiter… wenn mein Herz das aushält. 🎭\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "sav",
+      "tone": "philosophe",
+      "text": "GEDANKE DES TAGES 🌿\n\nAn die Beschwerdestelle für Menschen,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nDas Leben ist kurz: Ich nehme mir Zeit, an den Rosen zu schnuppern. 🌿\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "linkedin",
+      "tone": "drôle",
+      "text": "OFFIZIELLE MITTEILUNG 🐾\n\nInterne Mitteilung der Leitung für häusliche Abläufe,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nIch fordere Entschädigung in Leckerlis. Nicht verhandelbar. 😂\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "linkedin",
+      "tone": "sérieux",
+      "text": "EINE WICHTIGE ANGELEGENHEIT 🐾\n\nInterne Mitteilung der Leitung für häusliche Abläufe,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nIch bitte darum, diese Angelegenheit sehr ernst zu nehmen. 🐾\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "linkedin",
+      "tone": "triste",
+      "text": "EIN KLEINER MOMENT DER TRAURIGKEIT 💜\n\nInterne Mitteilung der Leitung für häusliche Abläufe,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nEin bisschen Zuneigung würde mir heute guttun. 💜\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "linkedin",
+      "tone": "tendre",
+      "text": "DAS GLÜCK LIEGT IN DEN KLEINEN DINGEN ❤️\n\nInterne Mitteilung der Leitung für häusliche Abläufe,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nUnd trotzdem würde ich meinen Menschen gegen nichts auf der Welt eintauschen. ❤️\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "linkedin",
+      "tone": "en colère",
+      "text": "ICH REICHE BESCHWERDE EIN! 😤\n\nInterne Mitteilung der Leitung für häusliche Abläufe,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nIch habe die Gewerkschaft der freien Pfoten informiert. 😤\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "linkedin",
+      "tone": "dramatique",
+      "text": "EINE TRAGÖDIE IN DREI AKTEN 🎭\n\nInterne Mitteilung der Leitung für häusliche Abläufe,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nMeine Geschichte geht weiter… wenn mein Herz das aushält. 🎭\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "linkedin",
+      "tone": "philosophe",
+      "text": "GEDANKE DES TAGES 🌿\n\nInterne Mitteilung der Leitung für häusliche Abläufe,\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nDas Leben ist kurz: Ich nehme mir Zeit, an den Rosen zu schnuppern. 🌿\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "potins",
+      "tone": "drôle",
+      "text": "OFFIZIELLE MITTEILUNG 🐾\n\nEXKLUSIV — Neues aus der Tierpresse:\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nIch fordere Entschädigung in Leckerlis. Nicht verhandelbar. 😂\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "potins",
+      "tone": "sérieux",
+      "text": "EINE WICHTIGE ANGELEGENHEIT 🐾\n\nEXKLUSIV — Neues aus der Tierpresse:\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nIch bitte darum, diese Angelegenheit sehr ernst zu nehmen. 🐾\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "potins",
+      "tone": "triste",
+      "text": "EIN KLEINER MOMENT DER TRAURIGKEIT 💜\n\nEXKLUSIV — Neues aus der Tierpresse:\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nEin bisschen Zuneigung würde mir heute guttun. 💜\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "potins",
+      "tone": "tendre",
+      "text": "DAS GLÜCK LIEGT IN DEN KLEINEN DINGEN ❤️\n\nEXKLUSIV — Neues aus der Tierpresse:\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nUnd trotzdem würde ich meinen Menschen gegen nichts auf der Welt eintauschen. ❤️\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "potins",
+      "tone": "en colère",
+      "text": "ICH REICHE BESCHWERDE EIN! 😤\n\nEXKLUSIV — Neues aus der Tierpresse:\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nIch habe die Gewerkschaft der freien Pfoten informiert. 😤\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "potins",
+      "tone": "dramatique",
+      "text": "EINE TRAGÖDIE IN DREI AKTEN 🎭\n\nEXKLUSIV — Neues aus der Tierpresse:\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nMeine Geschichte geht weiter… wenn mein Herz das aushält. 🎭\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "de",
+      "rubric": "potins",
+      "tone": "philosophe",
+      "text": "GEDANKE DES TAGES 🌿\n\nEXKLUSIV — Neues aus der Tierpresse:\n\nSo erzählt mein Mensch, was passiert ist: « Mein Mensch wollte weiter spazieren gehen aber es hat heute geregnet. #MeineMarke »\n\nIch bin Animal fictif, ein Hund (Origine fictive). Hier ist meine Sicht der Geschichte.\n\nMein Charakter: Verspielt, Ruhig, Neugierig, Trait personnel fictif. Ich erzähle dieses Abenteuer auf meine eigene Art.\n\nDas Leben ist kurz: Ich nehme mir Zeit, an den Rosen zu schnuppern. 🌿\n\n#Animoi #Tierleben #Hund"
+    },
+    {
+      "locale": "it",
+      "rubric": "pawbook",
+      "tone": "drôle",
+      "text": "COMUNICATO UFFICIALE 🐾\n\nCaro diario,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nEsigo un risarcimento in bocconcini. Senza trattative. 😂\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "pawbook",
+      "tone": "sérieux",
+      "text": "UNA QUESTIONE IMPORTANTE 🐾\n\nCaro diario,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nChiedo che questa questione sia presa molto sul serio. 🐾\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "pawbook",
+      "tone": "triste",
+      "text": "UN PICCOLO MOMENTO DI TRISTEZZA 💜\n\nCaro diario,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nOggi mi farebbe bene un po’ di dolcezza. 💜\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "pawbook",
+      "tone": "tendre",
+      "text": "LA FELICITÀ È NELLE PICCOLE COSE ❤️\n\nCaro diario,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nE, nonostante tutto, non cambierei il mio umano per nulla al mondo. ❤️\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "pawbook",
+      "tone": "en colère",
+      "text": "PRESENTO UN RECLAMO! 😤\n\nCaro diario,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nHo avvisato il sindacato delle zampe libere. 😤\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "pawbook",
+      "tone": "dramatique",
+      "text": "TRAGEDIA IN TRE ATTI 🎭\n\nCaro diario,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nLa mia storia continua… se il mio cuore lo regge. 🎭\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "pawbook",
+      "tone": "philosophe",
+      "text": "PENSIERO DEL GIORNO 🌿\n\nCaro diario,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nLa vita è breve: mi prenderò il tempo di annusare le rose. 🌿\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "sav",
+      "tone": "drôle",
+      "text": "COMUNICATO UFFICIALE 🐾\n\nAll’attenzione dell’ufficio reclami degli umani,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nEsigo un risarcimento in bocconcini. Senza trattative. 😂\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "sav",
+      "tone": "sérieux",
+      "text": "UNA QUESTIONE IMPORTANTE 🐾\n\nAll’attenzione dell’ufficio reclami degli umani,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nChiedo che questa questione sia presa molto sul serio. 🐾\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "sav",
+      "tone": "triste",
+      "text": "UN PICCOLO MOMENTO DI TRISTEZZA 💜\n\nAll’attenzione dell’ufficio reclami degli umani,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nOggi mi farebbe bene un po’ di dolcezza. 💜\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "sav",
+      "tone": "tendre",
+      "text": "LA FELICITÀ È NELLE PICCOLE COSE ❤️\n\nAll’attenzione dell’ufficio reclami degli umani,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nE, nonostante tutto, non cambierei il mio umano per nulla al mondo. ❤️\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "sav",
+      "tone": "en colère",
+      "text": "PRESENTO UN RECLAMO! 😤\n\nAll’attenzione dell’ufficio reclami degli umani,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nHo avvisato il sindacato delle zampe libere. 😤\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "sav",
+      "tone": "dramatique",
+      "text": "TRAGEDIA IN TRE ATTI 🎭\n\nAll’attenzione dell’ufficio reclami degli umani,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nLa mia storia continua… se il mio cuore lo regge. 🎭\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "sav",
+      "tone": "philosophe",
+      "text": "PENSIERO DEL GIORNO 🌿\n\nAll’attenzione dell’ufficio reclami degli umani,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nLa vita è breve: mi prenderò il tempo di annusare le rose. 🌿\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "linkedin",
+      "tone": "drôle",
+      "text": "COMUNICATO UFFICIALE 🐾\n\nNota interna della direzione delle operazioni domestiche,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nEsigo un risarcimento in bocconcini. Senza trattative. 😂\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "linkedin",
+      "tone": "sérieux",
+      "text": "UNA QUESTIONE IMPORTANTE 🐾\n\nNota interna della direzione delle operazioni domestiche,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nChiedo che questa questione sia presa molto sul serio. 🐾\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "linkedin",
+      "tone": "triste",
+      "text": "UN PICCOLO MOMENTO DI TRISTEZZA 💜\n\nNota interna della direzione delle operazioni domestiche,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nOggi mi farebbe bene un po’ di dolcezza. 💜\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "linkedin",
+      "tone": "tendre",
+      "text": "LA FELICITÀ È NELLE PICCOLE COSE ❤️\n\nNota interna della direzione delle operazioni domestiche,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nE, nonostante tutto, non cambierei il mio umano per nulla al mondo. ❤️\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "linkedin",
+      "tone": "en colère",
+      "text": "PRESENTO UN RECLAMO! 😤\n\nNota interna della direzione delle operazioni domestiche,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nHo avvisato il sindacato delle zampe libere. 😤\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "linkedin",
+      "tone": "dramatique",
+      "text": "TRAGEDIA IN TRE ATTI 🎭\n\nNota interna della direzione delle operazioni domestiche,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nLa mia storia continua… se il mio cuore lo regge. 🎭\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "linkedin",
+      "tone": "philosophe",
+      "text": "PENSIERO DEL GIORNO 🌿\n\nNota interna della direzione delle operazioni domestiche,\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nLa vita è breve: mi prenderò il tempo di annusare le rose. 🌿\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "potins",
+      "tone": "drôle",
+      "text": "COMUNICATO UFFICIALE 🐾\n\nESCLUSIVA — La stampa animale rivela:\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nEsigo un risarcimento in bocconcini. Senza trattative. 😂\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "potins",
+      "tone": "sérieux",
+      "text": "UNA QUESTIONE IMPORTANTE 🐾\n\nESCLUSIVA — La stampa animale rivela:\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nChiedo che questa questione sia presa molto sul serio. 🐾\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "potins",
+      "tone": "triste",
+      "text": "UN PICCOLO MOMENTO DI TRISTEZZA 💜\n\nESCLUSIVA — La stampa animale rivela:\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nOggi mi farebbe bene un po’ di dolcezza. 💜\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "potins",
+      "tone": "tendre",
+      "text": "LA FELICITÀ È NELLE PICCOLE COSE ❤️\n\nESCLUSIVA — La stampa animale rivela:\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nE, nonostante tutto, non cambierei il mio umano per nulla al mondo. ❤️\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "potins",
+      "tone": "en colère",
+      "text": "PRESENTO UN RECLAMO! 😤\n\nESCLUSIVA — La stampa animale rivela:\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nHo avvisato il sindacato delle zampe libere. 😤\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "potins",
+      "tone": "dramatique",
+      "text": "TRAGEDIA IN TRE ATTI 🎭\n\nESCLUSIVA — La stampa animale rivela:\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nLa mia storia continua… se il mio cuore lo regge. 🎭\n\n#Animoi #VitaAnimale #Cane"
+    },
+    {
+      "locale": "it",
+      "rubric": "potins",
+      "tone": "philosophe",
+      "text": "PENSIERO DEL GIORNO 🌿\n\nESCLUSIVA — La stampa animale rivela:\n\nEcco come il mio umano racconta i fatti: « Il mio umano voleva continuare la passeggiata ma pioveva molto questa mattina. #MioMarchio »\n\nSono Animal fictif, un cane (Origine fictive). Voglio raccontare la mia versione della storia.\n\nIl mio carattere: Giocherellone, Calmo, Curioso, Trait personnel fictif. Racconto questa avventura a modo mio.\n\nLa vita è breve: mi prenderò il tempo di annusare le rose. 🌿\n\n#Animoi #VitaAnimale #Cane"
+    }
+  ]
+}

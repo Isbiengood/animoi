@@ -1,0 +1,918 @@
+{
+  "retrieved": "2026-10-19",
+  "license": "CC0-1.0",
+  "method": "Wikidata structured sitelink titles frwiki/enwiki/eswiki/dewiki/itwiki, read via entity HTML pages; generic page disambiguators are removed by importer.",
+  "entries": [
+    {
+      "title": "Affenpinscher",
+      "qid": "Q7254",
+      "labels": {
+        "de": "Affenpinscher",
+        "en": "Affenpinscher",
+        "es": "Affenpinscher",
+        "fr": "Affenpinscher",
+        "it": "Affenpinscher"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Afghan Hound",
+      "qid": "Q21080",
+      "labels": {
+        "de": "Afghanischer Windhund",
+        "en": "Afghan Hound",
+        "es": "Lebrel afgano",
+        "fr": "Lévrier afghan",
+        "it": "Levriero afgano"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Airedale Terrier",
+      "qid": "Q37617",
+      "labels": {
+        "de": "Airedale Terrier",
+        "en": "Airedale Terrier",
+        "es": "Airedale terrier",
+        "fr": "Airedale Terrier",
+        "it": "Airedale terrier"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Akita",
+      "qid": "Q29164",
+      "labels": {
+        "de": "Akita (Hunderasse)",
+        "en": "Akita (dog breed)",
+        "es": "Akita Inu",
+        "fr": "Akita (chien)",
+        "it": "Akita (razza canina)"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Alaskan Malamute",
+      "qid": "Q21206",
+      "labels": {
+        "de": "Alaskan Malamute",
+        "en": "Alaskan Malamute",
+        "es": "Malamute de Alaska",
+        "fr": "Malamute de l'Alaska",
+        "it": "Alaskan malamute"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Australian Shepherd",
+      "qid": "Q37629",
+      "labels": {
+        "de": "Australian Shepherd",
+        "en": "Australian Shepherd",
+        "es": "Pastor ovejero australiano",
+        "fr": "Berger australien",
+        "it": "Australian Shepherd"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "beagle",
+      "qid": "Q21102",
+      "labels": {
+        "de": "Beagle (Hunderasse)",
+        "en": "Beagle",
+        "es": "Beagle",
+        "fr": "Beagle (chien)",
+        "it": "Beagle (razza canina)"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Belgian Shepherd",
+      "qid": "Q37624",
+      "labels": {
+        "de": "Belgischer Schäferhund",
+        "en": "Belgian Shepherd",
+        "es": "Pastor belga",
+        "fr": "Berger belge",
+        "it": "Cane da pastore belga"
+      },
+      "species": "Chien",
+      "vboId": "VBO_0200144"
+    },
+    {
+      "title": "Groenendael",
+      "qid": "Q38399",
+      "labels": {
+        "de": "Groenendael",
+        "en": "Groenendael dog",
+        "es": "Pastor belga groenendael",
+        "fr": "Berger belge Groenendael",
+        "it": "Cane da pastore belga (Groenendael)"
+      },
+      "species": "Chien",
+      "vboId": "VBO_0200145"
+    },
+    {
+      "title": "Belgian Malinois",
+      "qid": "Q38494",
+      "labels": {
+        "de": "Malinois",
+        "en": "Malinois dog",
+        "es": "Pastor belga malinois",
+        "fr": "Malinois (chien)",
+        "it": "Cane da pastore belga (Malinois)"
+      },
+      "species": "Chien",
+      "vboId": "VBO_0200147"
+    },
+    {
+      "title": "Bernese Mountain Dog",
+      "qid": "Q37608",
+      "labels": {
+        "de": "Berner Sennenhund",
+        "en": "Bernese Mountain Dog",
+        "es": "Boyero de Berna",
+        "fr": "Bouvier bernois",
+        "it": "Bovaro del bernese"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Bichon Frisé",
+      "qid": "Q37600",
+      "labels": {
+        "de": "Bichon Frisé",
+        "en": "Bichon Frisé",
+        "es": "Bichón frisé",
+        "fr": "Bichon à poil frisé",
+        "it": "Bichon à poil frisé"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Boxer",
+      "qid": "Q38496",
+      "labels": {
+        "de": "Deutscher Boxer",
+        "en": "Boxer (dog breed)",
+        "es": "Bóxer",
+        "fr": "Boxer (chien)",
+        "it": "Deutscher boxer"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Bull Terrier",
+      "qid": "Q38322",
+      "labels": {
+        "de": "Bullterrier",
+        "en": "Bull Terrier",
+        "es": "Bull terrier",
+        "fr": "Bull Terrier",
+        "it": "Bull terrier"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Bulldog",
+      "qid": "Q38383",
+      "labels": {
+        "de": "Englische Bulldogge",
+        "en": "Bulldog",
+        "es": "Bulldog",
+        "fr": "Bulldog anglais",
+        "it": "Bulldog inglese"
+      },
+      "species": "Chien",
+      "vboId": "VBO_0200258"
+    },
+    {
+      "title": "Cane Corso",
+      "qid": "Q21082",
+      "labels": {
+        "de": "Cane Corso Italiano",
+        "en": "Cane Corso",
+        "es": "Mastín italiano",
+        "fr": "Cane Corso",
+        "it": "Cane corso italiano"
+      },
+      "species": "Chien",
+      "vboId": "VBO_0200712"
+    },
+    {
+      "title": "Cavalier King Charles Spaniel",
+      "qid": "Q38072",
+      "labels": {
+        "de": "Cavalier King Charles Spaniel",
+        "en": "Cavalier King Charles Spaniel",
+        "es": "Cavalier King Charles spaniel",
+        "fr": "Cavalier King Charles Spaniel",
+        "it": "Cavalier King Charles spaniel"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Chihuahua",
+      "qid": "Q653",
+      "labels": {
+        "de": "Chihuahua (Hunderasse)",
+        "en": "Chihuahua (dog breed)",
+        "es": "Chihuahua (perro)",
+        "fr": "Chihuahua (chien)",
+        "it": "Chihuahua (razza canina)"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Chow Chow",
+      "qid": "Q29013",
+      "labels": {
+        "de": "Chow-Chow",
+        "en": "Chow Chow",
+        "es": "Chow chow (raza de perro)",
+        "fr": "Chow-chow",
+        "it": "Chow chow"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "dachshund",
+      "qid": "Q29099",
+      "labels": {
+        "de": "Dackel",
+        "en": "Dachshund",
+        "es": "Dachshund",
+        "fr": "Teckel",
+        "it": "Bassotto tedesco"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Dalmatian",
+      "qid": "Q17504",
+      "labels": {
+        "de": "Dalmatiner",
+        "en": "Dalmatian dog",
+        "es": "Dálmata (perro)",
+        "fr": "Dalmatien",
+        "it": "Dalmata (razza canina)"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "English Cocker Spaniel",
+      "qid": "Q38533",
+      "labels": {
+        "de": "English Cocker Spaniel",
+        "en": "English Cocker Spaniel",
+        "es": "Cocker spaniel inglés",
+        "fr": "Cocker spaniel anglais",
+        "it": "Cocker spaniel inglese"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "French Bulldog",
+      "qid": "Q29149",
+      "labels": {
+        "de": "Französische Bulldogge",
+        "en": "French Bulldog",
+        "es": "Bulldog francés",
+        "fr": "Bouledogue",
+        "it": "Bouledogue français"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Golden Retriever",
+      "qid": "Q38686",
+      "labels": {
+        "de": "Golden Retriever",
+        "en": "Golden Retriever",
+        "es": "Golden retriever",
+        "fr": "Golden retriever",
+        "it": "Golden retriever"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Great Dane",
+      "qid": "Q5414",
+      "labels": {
+        "de": "Deutsche Dogge",
+        "en": "Great Dane",
+        "es": "Gran danés",
+        "fr": "Dogue allemand",
+        "it": "Alano"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "greyhound",
+      "qid": "Q38571",
+      "labels": {
+        "de": "Greyhound (Hunderasse)",
+        "en": "Greyhound",
+        "es": "Galgo inglés",
+        "fr": "Lévrier greyhound",
+        "it": "Greyhound"
+      },
+      "species": "Chien",
+      "vboId": "VBO_0200638"
+    },
+    {
+      "title": "Jack Russell Terrier",
+      "qid": "Q38287",
+      "labels": {
+        "de": "Jack Russell Terrier",
+        "en": "Jack Russell Terrier",
+        "es": "Jack Russell terrier",
+        "fr": "Jack Russell terrier",
+        "it": "Jack Russell terrier"
+      },
+      "species": "Chien",
+      "vboId": "VBO_0200724"
+    },
+    {
+      "title": "Labrador Retriever",
+      "qid": "Q38726",
+      "labels": {
+        "de": "Labrador Retriever",
+        "en": "Labrador Retriever",
+        "es": "Labrador retriever",
+        "fr": "Labrador retriever",
+        "it": "Labrador retriever"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Newfoundland dog",
+      "qid": "Q38706",
+      "labels": {
+        "de": "Neufundländer",
+        "en": "Newfoundland dog",
+        "es": "Terranova (perro)",
+        "fr": "Terre-neuve (chien)",
+        "it": "Terranova (razza canina)"
+      },
+      "species": "Chien",
+      "vboId": "VBO_0200938"
+    },
+    {
+      "title": "Pekingese",
+      "qid": "Q38959",
+      "labels": {
+        "de": "Pekingese",
+        "en": "Pekingese",
+        "es": "Pekinés (raza de perro)",
+        "fr": "Pékinois (chien)",
+        "it": "Pechinese"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Pomeranian",
+      "qid": "Q39579",
+      "labels": {
+        "en": "Pomeranian dog",
+        "es": "Pomerania (perro)",
+        "fr": "Spitz nain",
+        "it": "Pomerania (razza canina)"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "pug",
+      "qid": "Q38698",
+      "labels": {
+        "de": "Mops",
+        "en": "Pug",
+        "es": "Pug",
+        "fr": "Carlin",
+        "it": "Carlino (razza canina)"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Rottweiler",
+      "qid": "Q39093",
+      "labels": {
+        "de": "Rottweiler",
+        "en": "Rottweiler",
+        "es": "Rottweiler",
+        "fr": "Rottweiler",
+        "it": "Rottweiler"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "St. Bernard",
+      "qid": "Q38090",
+      "labels": {
+        "de": "Bernhardiner",
+        "en": "St. Bernard (dog breed)",
+        "es": "San bernardo (perro)",
+        "fr": "Saint-bernard",
+        "it": "Cane di San Bernardo"
+      },
+      "species": "Chien",
+      "vboId": "VBO_0201160"
+    },
+    {
+      "title": "Samoyed",
+      "qid": "Q39002",
+      "labels": {
+        "de": "Samojede (Hunderasse)",
+        "en": "Samoyed dog",
+        "es": "Samoyedo",
+        "fr": "Samoyède (chien)",
+        "it": "Samoiedo"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Shar Pei",
+      "qid": "Q38972",
+      "labels": {
+        "de": "Shar-Pei",
+        "en": "Shar Pei",
+        "es": "Shar pei",
+        "fr": "Shar Pei",
+        "it": "Shar Pei"
+      },
+      "species": "Chien",
+      "vboId": "VBO_0200351"
+    },
+    {
+      "title": "Shiba Inu",
+      "qid": "Q39315",
+      "labels": {
+        "de": "Shiba",
+        "en": "Shiba Inu",
+        "es": "Shiba inu",
+        "fr": "Shiba (chien)",
+        "it": "Shiba (razza canina)"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Staffordshire Bull Terrier",
+      "qid": "Q39285",
+      "labels": {
+        "de": "Staffordshire Bullterrier",
+        "en": "Staffordshire Bull Terrier",
+        "es": "Staffordshire bull terrier",
+        "fr": "Staffordshire Bull Terrier",
+        "it": "Staffordshire bull terrier"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "West Highland White Terrier",
+      "qid": "Q17510",
+      "labels": {
+        "de": "West Highland White Terrier",
+        "en": "West Highland White Terrier",
+        "es": "West Highland white terrier",
+        "fr": "West Highland white terrier",
+        "it": "West Highland white terrier"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "White Swiss Shepherd",
+      "qid": "Q37934",
+      "labels": {
+        "de": "Berger Blanc Suisse",
+        "en": "White Swiss Shepherd Dog",
+        "es": "Pastor blanco suizo",
+        "fr": "Berger blanc suisse",
+        "it": "Pastore svizzero bianco"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Yorkshire Terrier",
+      "qid": "Q39330",
+      "labels": {
+        "de": "Yorkshire Terrier",
+        "en": "Yorkshire Terrier",
+        "es": "Yorkshire terrier",
+        "fr": "Yorkshire terrier",
+        "it": "Yorkshire terrier"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "German Shepherd",
+      "qid": "Q38280",
+      "labels": {
+        "de": "Deutscher Schäferhund",
+        "en": "German Shepherd",
+        "es": "Pastor alemán",
+        "fr": "Berger allemand",
+        "it": "Cane da pastore tedesco"
+      },
+      "species": "Chien",
+      "vboId": "VBO_0200577"
+    },
+    {
+      "title": "Abyssinian",
+      "qid": "Q7955",
+      "labels": {
+        "de": "Abessinierkatze",
+        "en": "Abyssinian cat",
+        "es": "Abisinio (gato)",
+        "fr": "Abyssin",
+        "it": "Abissino"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "American Bobtail",
+      "qid": "Q7874",
+      "labels": {
+        "de": "American Bobtail",
+        "en": "American Bobtail",
+        "fr": "Bobtail américain",
+        "it": "Bobtail americano"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "American Curl",
+      "qid": "Q7960",
+      "labels": {
+        "de": "American Curl",
+        "en": "American Curl",
+        "es": "Curl Americano",
+        "fr": "American curl",
+        "it": "American Curl"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "American Shorthair",
+      "qid": "Q7962",
+      "labels": {
+        "de": "American Shorthair",
+        "en": "American Shorthair",
+        "es": "American shorthair",
+        "fr": "American shorthair",
+        "it": "American shorthair"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Balinese cat",
+      "qid": "Q9665",
+      "labels": {
+        "de": "Balinesenkatze",
+        "en": "Balinese cat",
+        "es": "Gato balinés",
+        "fr": "Balinais (chat)",
+        "it": "Balinese"
+      },
+      "species": "Chat",
+      "vboId": "VBO_0100036"
+    },
+    {
+      "title": "Bengal cat",
+      "qid": "Q42583",
+      "labels": {
+        "de": "Bengal (Katzenrasse)",
+        "en": "Bengal cat",
+        "es": "Bengala (gato)",
+        "fr": "Bengal",
+        "it": "Bengala (gatto)"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Bombay",
+      "qid": "Q42566",
+      "labels": {
+        "de": "Bombay-Katze",
+        "en": "Bombay cat",
+        "es": "Bombay (gato)",
+        "fr": "Bombay (chat)",
+        "it": "Bombay americano"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "British Longhair",
+      "qid": "Q29268",
+      "labels": {
+        "de": "Britisch Langhaar",
+        "en": "British Longhair",
+        "es": "British Longhair",
+        "fr": "British longhair"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "British Shorthair",
+      "qid": "Q29273",
+      "labels": {
+        "de": "Britisch Kurzhaar",
+        "en": "British Shorthair",
+        "es": "British Shorthair",
+        "fr": "British shorthair",
+        "it": "British shorthair"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Burmese",
+      "qid": "Q42573",
+      "labels": {
+        "de": "Burma-Katze",
+        "en": "Burmese cat",
+        "es": "Burmés",
+        "fr": "Burmese",
+        "it": "Burmese (gatto)"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Burmilla",
+      "qid": "Q29258",
+      "labels": {
+        "de": "Burmilla",
+        "en": "Burmilla",
+        "es": "Burmilla",
+        "fr": "Burmilla",
+        "it": "Burmilla"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Chartreux",
+      "qid": "Q42588",
+      "labels": {
+        "de": "Chartreux",
+        "en": "Chartreux",
+        "es": "Cartujo (gato)",
+        "fr": "Chartreux (chat)",
+        "it": "Certosino (gatto)"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Cornish Rex",
+      "qid": "Q42559",
+      "labels": {
+        "de": "Cornish Rex",
+        "en": "Cornish Rex",
+        "es": "Cornish rex",
+        "fr": "Cornish rex",
+        "it": "Cornish Rex"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Egyptian Mau",
+      "qid": "Q7295",
+      "labels": {
+        "de": "Ägyptische Mau",
+        "en": "Egyptian Mau",
+        "es": "Mau egipcio",
+        "fr": "Mau égyptien",
+        "it": "Mau egiziano"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "European Shorthair",
+      "qid": "Q20793",
+      "labels": {
+        "de": "Europäisch Kurzhaar",
+        "en": "European Shorthair",
+        "es": "Gato común europeo",
+        "fr": "European shorthair",
+        "it": "Gatto europeo"
+      },
+      "species": "Chat",
+      "vboId": "VBO_0100094"
+    },
+    {
+      "title": "Exotic Shorthair",
+      "qid": "Q42555",
+      "labels": {
+        "de": "Exotische Kurzhaarkatze",
+        "en": "Exotic Shorthair",
+        "es": "Gato exótico",
+        "fr": "Exotic shorthair",
+        "it": "Exotic shorthair"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Thai",
+      "qid": "Q42732",
+      "labels": {
+        "de": "Thaikatze",
+        "en": "Thai cat",
+        "es": "Siamés tradicional",
+        "fr": "Thaï (chat)",
+        "it": "Gatto thai"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Tonkinese",
+      "qid": "Q42726",
+      "labels": {
+        "de": "Tonkanese",
+        "en": "Tonkinese cat",
+        "es": "Gato tonkinés",
+        "fr": "Tonkinois",
+        "it": "Tonchinese"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Toyger",
+      "qid": "Q7323",
+      "labels": {
+        "de": "Toyger",
+        "en": "Toyger",
+        "es": "Gato Toyger",
+        "fr": "Toyger",
+        "it": "Toyger"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Turkish Angora",
+      "qid": "Q42720",
+      "labels": {
+        "de": "Türkisch Angora",
+        "en": "Turkish Angora",
+        "es": "Angora turco",
+        "fr": "Angora turc",
+        "it": "Gatto d'Angora"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Turkish Van",
+      "qid": "Q42724",
+      "labels": {
+        "de": "Türkisch Van",
+        "en": "Turkish Van",
+        "es": "Gato Van Turco",
+        "fr": "Turc de Van",
+        "it": "Turco di Van"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Holland Lop",
+      "qid": "Q853488",
+      "labels": {
+        "en": "Holland Lop",
+        "es": "Holland Lop",
+        "fr": "Nain bélier"
+      },
+      "species": "Lapin"
+    },
+    {
+      "title": "Thoroughbred",
+      "qid": "Q210826",
+      "labels": {
+        "de": "Englisches Vollblut",
+        "en": "Thoroughbred",
+        "es": "Purasangre",
+        "fr": "Pur-sang",
+        "it": "Purosangue inglese"
+      },
+      "species": "Cheval"
+    },
+    {
+      "title": "Trakehner",
+      "qid": "Q843585",
+      "labels": {
+        "de": "Trakehner",
+        "en": "Trakehner",
+        "es": "Trakehner",
+        "fr": "Trakehner",
+        "it": "Trakehner"
+      },
+      "species": "Cheval"
+    },
+    {
+      "title": "Anglo-Arabian",
+      "qid": "Q541046",
+      "labels": {
+        "de": "Anglo-Araber",
+        "en": "Anglo-Arabian",
+        "es": "Anglo-árabe",
+        "fr": "Anglo-arabe"
+      },
+      "species": "Cheval",
+      "vboId": "VBO_0000901"
+    },
+    {
+      "title": "Siamese",
+      "qid": "Q42604",
+      "labels": {
+        "de": "Siamkatze",
+        "en": "Siamese cat",
+        "es": "Gato siamés",
+        "fr": "Siamois (chat)",
+        "it": "Siamese (gatto)"
+      },
+      "species": "Chat",
+      "vboId": "VBO_0100221"
+    },
+    {
+      "title": "Persian cat",
+      "qid": "Q42610",
+      "labels": {
+        "de": "Perserkatze",
+        "en": "Persian cat",
+        "es": "Gato persa",
+        "fr": "Persan (chat)",
+        "it": "Persiano (gatto)"
+      },
+      "species": "Chat",
+      "vboId": "VBO_0100188"
+    },
+    {
+      "title": "Birman cat",
+      "qid": "Q42563",
+      "labels": {
+        "de": "Birma-Katze",
+        "en": "Birman",
+        "es": "Sagrado de Birmania",
+        "fr": "Sacré de Birmanie",
+        "it": "Gatto sacro di Birmania"
+      },
+      "species": "Chat",
+      "vboId": "VBO_0100042"
+    },
+    {
+      "title": "Ragdoll",
+      "qid": "Q42688",
+      "labels": {
+        "de": "Ragdoll-Katze",
+        "en": "Ragdoll",
+        "es": "Ragdoll",
+        "fr": "Ragdoll",
+        "it": "Ragdoll (gatto)"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "poodle",
+      "qid": "Q38904",
+      "labels": {
+        "de": "Pudel",
+        "en": "Poodle",
+        "es": "Caniche",
+        "fr": "Caniche",
+        "it": "Barbone (razza canina)"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "border collie",
+      "qid": "Q37710",
+      "labels": {
+        "de": "Border Collie",
+        "en": "Border Collie",
+        "es": "Border collie",
+        "fr": "Border collie",
+        "it": "Border Collie"
+      },
+      "species": "Chien"
+    },
+    {
+      "title": "Norwegian Forest Cat",
+      "qid": "Q42667",
+      "labels": {
+        "de": "Norwegische Waldkatze",
+        "en": "Norwegian Forest Cat",
+        "es": "Bosque de Noruega",
+        "fr": "Norvégien (chat)",
+        "it": "Gatto delle foreste norvegesi"
+      },
+      "species": "Chat"
+    },
+    {
+      "title": "Maine coon",
+      "qid": "Q42659",
+      "labels": {
+        "de": "Maine-Coon-Katze",
+        "en": "Maine Coon",
+        "es": "Maine Coon",
+        "fr": "Maine coon",
+        "it": "Maine Coon"
+      },
+      "species": "Chat"
+    }
+  ]
+}

@@ -1,0 +1,1891 @@
+{
+  "version": 1,
+  "consultedAt": "2026-10-19",
+  "license": "CC0-1.0",
+  "labelProvenance": "Wikidata taxon names (P225), entity labels and interwiki titles; isolated vernacular names were also cross-checked in linked Commons VN displays. VN may combine Wikidata data with manually entered category names: a Commons URL alone does not establish a P1843 source. No category prose, template code or media is reproduced.",
+  "entries": [
+    {
+      "id": "fish:Q549",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Betta splendens",
+      "wikidataId": "Q549",
+      "labels": {
+        "fr": "combattant",
+        "en": "Siamese fighting fish",
+        "es": "Betta splendens",
+        "de": "Siamesischer Kampffisch",
+        "it": "Betta splendens"
+      },
+      "aliases": [
+        "Betta splendens",
+        "Siamese fighting fish",
+        "combattant",
+        "Combattant",
+        "Siamese Fighting Fish",
+        "Pez luchador de Siam",
+        "Combatiente",
+        "Siamesischer Kampffisch"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q549",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Betta_splendens",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q1340577",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Poecilia wingei",
+      "wikidataId": "Q1340577",
+      "labels": {
+        "fr": "Poecilia wingei",
+        "en": "Poecilia wingei",
+        "es": "Poecilia wingei",
+        "de": "Endlers Guppy",
+        "it": "Poecilia wingei"
+      },
+      "aliases": [
+        "Poecilia wingei",
+        "Poecilia Wingei",
+        "Endler's Livebearer",
+        "Endler",
+        "Endler’s Guppy",
+        "Gupi Endler",
+        "Endlers Guppy"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "fr",
+        "en",
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1340577",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Poecilia_wingei",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q272188",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Xiphophorus hellerii",
+      "wikidataId": "Q272188",
+      "labels": {
+        "fr": "Xipho",
+        "en": "Green swordtail",
+        "es": "Xiphophorus hellerii",
+        "de": "Schwertträger",
+        "it": "Xiphophorus helleri"
+      },
+      "aliases": [
+        "Xiphophorus hellerii",
+        "Swordtail",
+        "Xipho",
+        "Green swordtail",
+        "Schwertträger",
+        "Xiphophorus helleri"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q272188",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Xiphophorus_hellerii",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q1162971",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Xiphophorus maculatus",
+      "wikidataId": "Q1162971",
+      "labels": {
+        "fr": "Platy",
+        "en": "Southern platyfish",
+        "es": "Xiphophorus maculatus",
+        "de": "Platy",
+        "it": "Xiphophorus maculatus"
+      },
+      "aliases": [
+        "Xiphophorus maculatus",
+        "Platy",
+        "Southern platyfish",
+        "Spiegelkärpfling"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1162971",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Xiphophorus_maculatus",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q177832",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Poecilia sphenops",
+      "wikidataId": "Q177832",
+      "labels": {
+        "fr": "Molly",
+        "en": "Poecilia sphenops",
+        "es": "Poecilia sphenops",
+        "de": "Spitzmaulkärpfling",
+        "it": "Poecilia sphenops"
+      },
+      "aliases": [
+        "Poecilia sphenops",
+        "Molly",
+        "Black molly",
+        "Spitzmaulkärpfling"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "en",
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q177832",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Poecilia_sphenops",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q169444",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Danio rerio",
+      "wikidataId": "Q169444",
+      "labels": {
+        "fr": "Poisson zèbre",
+        "en": "Zebrafish",
+        "es": "Danio rerio",
+        "de": "Zebrabärbling",
+        "it": "Danio rerio"
+      },
+      "aliases": [
+        "Danio rerio",
+        "Poisson zèbre",
+        "Zebrafish",
+        "Zebra danio",
+        "Cebrita",
+        "Danio cebra",
+        "Zebrabärbling"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q169444",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Danio_rerio",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q685364",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Danio margaritatus",
+      "wikidataId": "Q685364",
+      "labels": {
+        "fr": "Danio margaritatus",
+        "en": "Danio margaritatus",
+        "es": "Danio margaritatus",
+        "de": "Perlhuhnbärbling",
+        "it": "Danio margaritatus"
+      },
+      "aliases": [
+        "Danio margaritatus",
+        "Perlhuhnbärbling"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "fr",
+        "en",
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q685364",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Danio_margaritatus",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q131431",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Paracheirodon innesi",
+      "wikidataId": "Q131431",
+      "labels": {
+        "fr": "Néon bleu",
+        "en": "Neon tetra",
+        "es": "Paracheirodon innesi",
+        "de": "Neonsalmler",
+        "it": "Paracheirodon innesi"
+      },
+      "aliases": [
+        "Paracheirodon innesi",
+        "neon tetra",
+        "Néon bleu",
+        "Neon tetra",
+        "Tetra neón",
+        "Neonsalmler"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q131431",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Paracheirodon_innesi",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q590731",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Paracheirodon axelrodi",
+      "wikidataId": "Q590731",
+      "labels": {
+        "fr": "Paracheirodon axelrodi",
+        "en": "Cardinal tetra",
+        "es": "Paracheirodon axelrodi",
+        "de": "Roter Neon",
+        "it": "Paracheirodon axelrodi"
+      },
+      "aliases": [
+        "Paracheirodon axelrodi",
+        "cardinal tetra",
+        "Cardinal tetra",
+        "Tetra neón cardenal",
+        "Roter Neon"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "fr",
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q590731",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Paracheirodon_axelrodi",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q923185",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Hyphessobrycon amandae",
+      "wikidataId": "Q923185",
+      "labels": {
+        "fr": "Hyphessobrycon amandae",
+        "en": "Ember tetra",
+        "es": "Hyphessobrycon amandae",
+        "de": "Funkensalmler",
+        "it": "Hyphessobrycon amandae"
+      },
+      "aliases": [
+        "Hyphessobrycon amandae",
+        "Ember tetra",
+        "Funkensalmler"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "fr",
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q923185",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Hyphessobrycon_amandae",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q827441",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Pterophyllum scalare",
+      "wikidataId": "Q827441",
+      "labels": {
+        "fr": "Scalaire",
+        "en": "Pterophyllum scalare",
+        "es": "Pterophyllum scalare",
+        "de": "Skalar",
+        "it": "Pterophyllum scalare"
+      },
+      "aliases": [
+        "Pterophyllum scalare",
+        "freshwater angelfish",
+        "Scalaire",
+        "Scalare",
+        "Angelfish",
+        "Escalar",
+        "Pez angel",
+        "Skalar"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "en",
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q827441",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Pterophyllum_scalare",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q3091839",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Symphysodon aequifasciatus",
+      "wikidataId": "Q3091839",
+      "labels": {
+        "fr": "Discus commun",
+        "en": "Symphysodon aequifasciatus",
+        "es": "Symphysodon aequifasciatus",
+        "de": "Symphysodon aequifasciatus",
+        "it": "Symphysodon aequifasciatus"
+      },
+      "aliases": [
+        "Symphysodon aequifasciatus",
+        "Discus commun",
+        "Discus fish",
+        "Pez disco"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "en",
+        "es",
+        "de",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q3091839",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Symphysodon_aequifasciatus",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q244123",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Trichogaster lalius",
+      "wikidataId": "Q244123",
+      "labels": {
+        "fr": "Gourami nain",
+        "en": "Dwarf gourami",
+        "es": "Trichogaster lalius",
+        "de": "Zwergfadenfisch",
+        "it": "Trichogaster lalius"
+      },
+      "aliases": [
+        "Trichogaster lalius",
+        "Gourami nain",
+        "Dwarf gourami",
+        "Zwergfadenfisch"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q244123",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Trichogaster_lalius",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q14505073",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Trichopodus leerii",
+      "wikidataId": "Q14505073",
+      "labels": {
+        "fr": "Gourami perlé",
+        "en": "Pearl gourami",
+        "es": "Trichogaster leerii",
+        "de": "Mosaikfadenfisch",
+        "it": "Trichopodus leerii"
+      },
+      "aliases": [
+        "Trichopodus leerii",
+        "Gourami perlé",
+        "Pearl gourami",
+        "Trichogaster leerii",
+        "Mosaikfadenfisch"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q14505073",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Trichopodus_leerii",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q1230573",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Trichogaster chuna",
+      "wikidataId": "Q1230573",
+      "labels": {
+        "fr": "Gourami miel",
+        "en": "Honey gourami",
+        "es": "Gurami miel",
+        "de": "Honiggurami",
+        "it": "Trichogaster chuna"
+      },
+      "aliases": [
+        "Trichogaster chuna",
+        "honey gourami",
+        "Gourami miel",
+        "Honey gourami",
+        "Gurami miel",
+        "Honiggurami"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1230573",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Trichogaster_chuna",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q304256",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Macropodus opercularis",
+      "wikidataId": "Q304256",
+      "labels": {
+        "fr": "Macropodus opercularis",
+        "en": "Paradise fish",
+        "es": "Macropodus opercularis",
+        "de": "Makropode",
+        "it": "Macropodus opercularis"
+      },
+      "aliases": [
+        "Macropodus opercularis",
+        "paradise fish",
+        "Paradise fish",
+        "paradise gouramis",
+        "Macrópodo",
+        "Pez del paraíso",
+        "Makropode",
+        "Paradiesfisch"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "fr",
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q304256",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Macropodus_opercularis",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q260468",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Mikrogeophagus ramirezi",
+      "wikidataId": "Q260468",
+      "labels": {
+        "fr": "Mikrogeophagus ramirezi",
+        "en": "Ram cichlid",
+        "es": "Mikrogeophagus ramirezi",
+        "de": "Südamerikanischer Schmetterlingsbuntbarsch",
+        "it": "Mikrogeophagus ramirezi"
+      },
+      "aliases": [
+        "Mikrogeophagus ramirezi",
+        "ram cichlid",
+        "Ram cichlid",
+        "Ramirez dwarf cichlid",
+        "Cíclido enano de Ramírez",
+        "Ramirezi",
+        "Südamerikanischer Schmetterlingsbuntbarsch"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "fr",
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q260468",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Mikrogeophagus_ramirezi",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q3442",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Astronotus ocellatus",
+      "wikidataId": "Q3442",
+      "labels": {
+        "fr": "Oscar",
+        "en": "Oscar",
+        "es": "Astronotus ocellatus",
+        "de": "Pfauenaugenbuntbarsch",
+        "it": "Astronotus ocellatus"
+      },
+      "aliases": [
+        "Astronotus ocellatus",
+        "Oscar",
+        "Oscar Cichlid",
+        "Pfauenaugenbuntbarsch"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q3442",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Astronotus_ocellatus",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q882607",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Ancistrus dolichopterus",
+      "wikidataId": "Q882607",
+      "labels": {
+        "fr": "Ancistrus dolichopterus",
+        "en": "Bushymouth catfish",
+        "es": "Ancistrus dolichopterus",
+        "de": "Blauer Antennenwels",
+        "it": "Ancistrus dolichopterus"
+      },
+      "aliases": [
+        "Ancistrus dolichopterus",
+        "Bushymouth catfish",
+        "Blauer Antennenwels"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "fr",
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q882607",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Ancistrus_dolichopterus",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q1126155",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Amphiprion ocellaris",
+      "wikidataId": "Q1126155",
+      "labels": {
+        "fr": "Poisson-clown à trois bandes",
+        "en": "Ocellaris clownfish",
+        "es": "Amphiprion ocellaris",
+        "de": "Falscher Clownfisch",
+        "it": "Amphiprion ocellaris"
+      },
+      "aliases": [
+        "Amphiprion ocellaris",
+        "Poisson-clown à trois bandes",
+        "Common clownfish",
+        "clown anemonefish",
+        "false clown anemonefish",
+        "false percula clownfish",
+        "ocellaris clownfish",
+        "Ocellaris clownfish",
+        "Payasito",
+        "Pez payaso",
+        "Falscher Clownfisch"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1126155",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Amphiprion_ocellaris",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q278307",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Paracanthurus hepatus",
+      "wikidataId": "Q278307",
+      "labels": {
+        "fr": "Chirurgien Bleu",
+        "en": "Blue Tang",
+        "es": "Paracanthurus hepatus",
+        "de": "Paletten-Doktorfisch",
+        "it": "Paracanthurus hepatus"
+      },
+      "aliases": [
+        "Paracanthurus hepatus",
+        "Chirurgien Bleu",
+        "Paracanthurus",
+        "Paletten-Doktorfisch",
+        "Blue Tang"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q278307",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Paracanthurus_hepatus",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q900868",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Zebrasoma flavescens",
+      "wikidataId": "Q900868",
+      "labels": {
+        "fr": "Chirurgien jaune",
+        "en": "Yellow tang",
+        "es": "Zebrasoma flavescens",
+        "de": "Gelber Segelflossendoktor",
+        "it": "Zebrasoma flavescens"
+      },
+      "aliases": [
+        "Zebrasoma flavescens",
+        "yellow tang",
+        "Chirurgien jaune",
+        "Lemon Sailfin",
+        "Somber Surgeonfish",
+        "Yellow Sailfin Tang",
+        "Yellow Tang",
+        "Yellow tang",
+        "Gelber Segelflossendoktor"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q900868",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Zebrasoma_flavescens",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q428921",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Pterapogon kauderni",
+      "wikidataId": "Q428921",
+      "labels": {
+        "fr": "Apogon de Kaudern",
+        "en": "Banggai cardinalfish",
+        "es": "Pterapogon kauderni",
+        "de": "Banggai-Kardinalbarsch",
+        "it": "Pterapogon kauderni"
+      },
+      "aliases": [
+        "Pterapogon kauderni",
+        "Banggai cardinalfish",
+        "Apogon de Kaudern",
+        "Banggai Cardinalfish",
+        "Banggai cardinal fish",
+        "Cardenal de Banggai",
+        "Banggai-Kardinalbarsch"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q428921",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Pterapogon_kauderni",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q98099531",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Chromis viridis",
+      "wikidataId": "Q98099531",
+      "labels": {
+        "fr": "Chromis viridis",
+        "en": "Chromis viridis",
+        "es": "Chromis viridis",
+        "de": "Grünes Schwalbenschwänzchen",
+        "it": "Chromis viridis"
+      },
+      "aliases": [
+        "Chromis viridis",
+        "Blue Green Chromis",
+        "Green Damselfish",
+        "Grünes Schwalbenschwänzchen"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "fr",
+        "en",
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q98099531",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Chromis_viridis",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q301058",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Epalzeorhynchos bicolor",
+      "wikidataId": "Q301058",
+      "labels": {
+        "fr": "Labéo bicolore",
+        "en": "Red-tailed black shark",
+        "es": "Epalzeorhynchos bicolor",
+        "de": "Feuerschwanz-Fransenlipper",
+        "it": "Epalzeorhynchos bicolor"
+      },
+      "aliases": [
+        "Epalzeorhynchos bicolor",
+        "red-tailed black shark",
+        "Labéo bicolore",
+        "Red-tailed black shark",
+        "Labeo negro de cola roja",
+        "Tiburón negro de cola roja",
+        "Feuerschwanz-Fransenlipper"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q301058",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Epalzeorhynchos_bicolor",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q384439",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Aphyosemion australe",
+      "wikidataId": "Q384439",
+      "labels": {
+        "fr": "Cap-Lopez",
+        "en": "Aphyosemion australe",
+        "es": "Aphyosemion australe",
+        "de": "Bunter Prachtkärpfling",
+        "it": "Aphyosemion australe"
+      },
+      "aliases": [
+        "Aphyosemion australe",
+        "Cap-Lopez",
+        "Bunter Prachtkärpfling"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "en",
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q384439",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Aphyosemion_australe",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q833254",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Melanotaenia boesemani",
+      "wikidataId": "Q833254",
+      "labels": {
+        "fr": "Melanotaenia boesemani",
+        "en": "Boeseman's rainbowfish",
+        "es": "Melanotaenia boesemani",
+        "de": "Harlekin-Regenbogenfisch",
+        "it": "Melanotaenia boesemani"
+      },
+      "aliases": [
+        "Melanotaenia boesemani",
+        "Bosemani Rainbow",
+        "Boeseman's Rainbowfish",
+        "Boeseman's rainbowfish",
+        "Harlekin-Regenbogenfisch",
+        "Prachtährenfisch"
+      ],
+      "fallbackLocales": [
+        "it"
+      ],
+      "scientificLabelLocales": [
+        "fr",
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q833254",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Melanotaenia_boesemani",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q1136461",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Tanichthys albonubes",
+      "wikidataId": "Q1136461",
+      "labels": {
+        "fr": "Néon du pauvre",
+        "en": "White Cloud Mountain minnow",
+        "es": "Tanichthys albonubes",
+        "de": "Kardinalfisch",
+        "it": "Tanichthys albonubes"
+      },
+      "aliases": [
+        "Tanichthys albonubes",
+        "White Cloud Mountain minnow",
+        "Néon du pauvre",
+        "White cloud mountain minnow",
+        "White Cloud Mountain Minnow",
+        "Neón chino",
+        "Kardinalfisch"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1136461",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Tanichthys_albonubes",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "hamster:Q204175",
+      "group": "Hamster",
+      "kind": "species",
+      "scientificName": "Mesocricetus auratus",
+      "wikidataId": "Q204175",
+      "labels": {
+        "fr": "Hamster doré",
+        "en": "Golden hamster",
+        "es": "Mesocricetus auratus",
+        "de": "Goldhamster",
+        "it": "Mesocricetus auratus"
+      },
+      "aliases": [
+        "Mesocricetus auratus",
+        "Hamster doré",
+        "Golden hamster",
+        "Golden Hamster",
+        "Syrian Hamster",
+        "Goldhamster",
+        "Syrischer Goldhamster"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q204175",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Mesocricetus_auratus",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "hamster:Q214633",
+      "group": "Hamster",
+      "kind": "species",
+      "scientificName": "Phodopus sungorus",
+      "wikidataId": "Q214633",
+      "labels": {
+        "fr": "Hamster russe",
+        "en": "Winter white dwarf hamster",
+        "es": "Phodopus sungorus",
+        "de": "Dsungarischer Zwerghamster",
+        "it": "Phodopus sungorus"
+      },
+      "aliases": [
+        "Phodopus sungorus",
+        "Dzungarian hamster",
+        "Hamster russe",
+        "hamster sibérien",
+        "Dzhungarian Hamster",
+        "Striped Hairy-footed Hamster",
+        "Winter White Dwarf Hamster",
+        "Winter white dwarf hamster",
+        "hamsters rusos",
+        "hamsters enanos de Zungaria",
+        "Streifen-Zwerghamster",
+        "Dshungarischer Zwerghamster",
+        "Dsungarischer Zwerghamster"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q214633",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Phodopus_sungorus",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "hamster:Q838784",
+      "group": "Hamster",
+      "kind": "species",
+      "scientificName": "Phodopus campbelli",
+      "wikidataId": "Q838784",
+      "labels": {
+        "fr": "Hamster de Campbell",
+        "en": "Campbell's dwarf hamster",
+        "es": "Phodopus campbelli",
+        "de": "Campbell-Zwerghamster",
+        "it": "Phodopus campbelli"
+      },
+      "aliases": [
+        "Phodopus campbelli",
+        "Campbell's dwarf hamster",
+        "Hamster de Campbell",
+        "Campbell's Hamster",
+        "Campbell’s Desert Hamster",
+        "Campbell’s Hamster",
+        "Campbell's Russian dwarf hamster",
+        "Kurzschwanz-Zwerghamster",
+        "Campbell-Zwerghamster"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q838784",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Phodopus_campbelli",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "hamster:Q729420",
+      "group": "Hamster",
+      "kind": "species",
+      "scientificName": "Phodopus roborovskii",
+      "wikidataId": "Q729420",
+      "labels": {
+        "fr": "Hamster de Roborovski",
+        "en": "Roborovski dwarf hamster",
+        "es": "Phodopus roborovskii",
+        "de": "Roborowski-Zwerghamster",
+        "it": "Phodopus roborovskii"
+      },
+      "aliases": [
+        "Phodopus roborovskii",
+        "Roborovski hamster",
+        "Hamster de Roborovski",
+        "Desert Hamster",
+        "Roborowski’s Hamster",
+        "Roborovski’s Desert Hamster",
+        "Roborovski dwarf hamster",
+        "hámster enano de Roborowski",
+        "Roborovski-Wüstenhamster",
+        "Roborowski-Zwerghamster"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q729420",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Phodopus_roborovskii",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "hamster:Q2539773",
+      "group": "Hamster",
+      "kind": "species",
+      "scientificName": "Cricetulus griseus",
+      "wikidataId": "Q2539773",
+      "labels": {
+        "fr": "Hamster de Chine",
+        "en": "Chinese hamster",
+        "es": "Cricetulus griseus",
+        "de": "Cricetulus griseus",
+        "it": "Cricetulus griseus"
+      },
+      "aliases": [
+        "Cricetulus griseus",
+        "Hamster de Chine",
+        "Chinese hamster"
+      ],
+      "fallbackLocales": [
+        "es",
+        "de",
+        "it"
+      ],
+      "scientificLabelLocales": [
+        "es",
+        "de",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q2539773",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Cricetulus_griseus",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q123141",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Carassius auratus",
+      "wikidataId": "Q123141",
+      "labels": {
+        "fr": "Poisson rouge",
+        "en": "Goldfish",
+        "es": "Carassius auratus",
+        "de": "Goldfisch",
+        "it": "Pesce rosso"
+      },
+      "aliases": [
+        "Carassius auratus",
+        "Poisson rouge",
+        "Carassin",
+        "Gold carp",
+        "Goldfish",
+        "Carpa dorada",
+        "Carpín dorado",
+        "Goldfisch",
+        "Pesce rosso"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q123141",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Carassius_auratus",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q178202",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Poecilia reticulata",
+      "wikidataId": "Q178202",
+      "labels": {
+        "fr": "Guppy",
+        "en": "Guppy",
+        "es": "Poecilia reticulata",
+        "de": "Guppy",
+        "it": "Poecilia reticulata"
+      },
+      "aliases": [
+        "Poecilia reticulata",
+        "Guppy",
+        "Lebistes"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q178202",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Poecilia_reticulata",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish:Q10866107",
+      "group": "Poisson",
+      "kind": "species",
+      "scientificName": "Trichopodus trichopterus",
+      "wikidataId": "Q10866107",
+      "labels": {
+        "fr": "Gourami bleu",
+        "en": "Three spot gourami",
+        "es": "Trichogaster trichopterus",
+        "de": "Gepunkteter Fadenfisch",
+        "it": "Trichopodus trichopterus"
+      },
+      "aliases": [
+        "Trichopodus trichopterus",
+        "Gourami bleu",
+        "Three spot gourami",
+        "Trichogaster trichopterus",
+        "Gepunkteter Fadenfisch"
+      ],
+      "fallbackLocales": [],
+      "scientificLabelLocales": [
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q10866107",
+      "vernacularSourceUrl": "https://commons.wikimedia.org/wiki/Category:Trichopodus_trichopterus",
+      "consultedAt": "2026-10-19",
+      "vernacularReferenceLicense": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "fish-variety:Q1854941",
+      "group": "Poisson",
+      "kind": "variety",
+      "scientificName": "Carassius auratus",
+      "varietyOf": "fish:Q123141",
+      "wikidataId": "Q1854941",
+      "labels": {
+        "fr": "Ranchu",
+        "en": "Ranchu",
+        "es": "Ranchu",
+        "de": "Ranchu",
+        "it": "Ranchu"
+      },
+      "aliases": [
+        "Ranchu"
+      ],
+      "fallbackLocales": [
+        "es"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1854941",
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "fish-variety:Q586166",
+      "group": "Poisson",
+      "kind": "variety",
+      "scientificName": "Carassius auratus",
+      "varietyOf": "fish:Q123141",
+      "wikidataId": "Q586166",
+      "labels": {
+        "fr": "Télescope",
+        "en": "Telescope",
+        "es": "Telescope goldfish",
+        "de": "Telescope goldfish",
+        "it": "Telescope goldfish"
+      },
+      "aliases": [
+        "Telescope goldfish",
+        "Télescope",
+        "Telescope"
+      ],
+      "fallbackLocales": [
+        "es",
+        "de",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q586166",
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "id": "fish-variety:Q2007814",
+      "group": "Poisson",
+      "kind": "variety",
+      "scientificName": "Carassius auratus",
+      "varietyOf": "fish:Q123141",
+      "wikidataId": "Q2007814",
+      "labels": {
+        "fr": "Shubunkin",
+        "en": "Shubunkin",
+        "es": "Shubunkin",
+        "de": "Shubunkin",
+        "it": "Shubunkin"
+      },
+      "aliases": [
+        "Shubunkin"
+      ],
+      "fallbackLocales": [
+        "es",
+        "it"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q2007814",
+      "consultedAt": "2026-10-19"
+    },
+    {
+      "scientificName": "Melopsittacus undulatus",
+      "labels": {
+        "en": "Budgerigar",
+        "de": "Wellensittich",
+        "es": "Periquito común",
+        "fr": "Perruche ondulée",
+        "it": "Pappagallino ondulato"
+      },
+      "aliases": [
+        "Budgerigar",
+        "Melopsittacus undulatus",
+        "Pappagallino ondulato",
+        "Periquito común",
+        "Perruche ondulée",
+        "Wellensittich",
+        "budgie"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q121221",
+      "wikidataId": "Q121221",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q121221",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Nymphicus hollandicus",
+      "labels": {
+        "en": "Cockatiel",
+        "de": "Nymphensittich",
+        "es": "Cacatúa ninfa",
+        "fr": "Calopsitte élégante",
+        "it": "Cacatua ninfa"
+      },
+      "aliases": [
+        "Cacatua ninfa",
+        "Cacatúa ninfa",
+        "Calopsitte élégante",
+        "Cockatiel",
+        "Nymphensittich",
+        "Nymphicus hollandicus"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q514809",
+      "wikidataId": "Q514809",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q514809",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Serinus canaria",
+      "labels": {
+        "en": "Atlantic Canary",
+        "de": "Kanarengirlitz",
+        "es": "Canario silvestre",
+        "fr": "Serin des Canaries",
+        "it": "Canarino selvatico"
+      },
+      "aliases": [
+        "Atlantic Canary",
+        "Canarino selvatico",
+        "Canario silvestre",
+        "Kanarengirlitz",
+        "Serin des Canaries",
+        "Serinus canaria"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q192524",
+      "wikidataId": "Q192524",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q192524",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Agapornis roseicollis",
+      "labels": {
+        "en": "Rosy-faced Lovebird",
+        "de": "Rosenköpfchen",
+        "es": "Inseparable de Namibia",
+        "fr": "Inséparable rosegorge",
+        "it": "Inseparabile facciarosa"
+      },
+      "aliases": [
+        "Agapornis roseicollis",
+        "Inseparabile facciarosa",
+        "Inseparable de Namibia",
+        "Inséparable rosegorge",
+        "Rosenköpfchen",
+        "Rosy-faced Lovebird"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q632213",
+      "wikidataId": "Q632213",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q632213",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Chloebia gouldiae",
+      "labels": {
+        "en": "Gouldian Finch",
+        "de": "Gouldamadine",
+        "es": "Diamante de Gould",
+        "fr": "Diamant de Gould",
+        "it": "Diamante di Gould"
+      },
+      "aliases": [
+        "Chloebia gouldiae",
+        "Diamant de Gould",
+        "Diamante de Gould",
+        "Diamante di Gould",
+        "Erythrura gouldiae",
+        "Gouldamadine",
+        "Gouldian Finch"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q752146",
+      "wikidataId": "Q752146",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q752146",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Agapornis fischeri",
+      "labels": {
+        "en": "Fischer's Lovebird",
+        "de": "Pfirsichköpfchen",
+        "es": "Inseparable de Fischer",
+        "fr": "Inséparable de Fischer",
+        "it": "Inseparabile di Fischer"
+      },
+      "aliases": [
+        "Agapornis fischeri",
+        "Fischer's Lovebird",
+        "Inseparabile di Fischer",
+        "Inseparable de Fischer",
+        "Inséparable de Fischer",
+        "Pfirsichköpfchen"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q603875",
+      "wikidataId": "Q603875",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q603875",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Agapornis personatus",
+      "labels": {
+        "en": "Yellow-collared Lovebird",
+        "de": "Schwarzköpfchen",
+        "es": "Inseparable cabecinegro",
+        "fr": "Inséparable masqué",
+        "it": "Inseparabile mascherato"
+      },
+      "aliases": [
+        "Agapornis personatus",
+        "Inseparabile mascherato",
+        "Inseparable cabecinegro",
+        "Inséparable masqué",
+        "Schwarzköpfchen",
+        "Yellow-collared Lovebird"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q753748",
+      "wikidataId": "Q753748",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q753748",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Psittacus erithacus",
+      "labels": {
+        "en": "Grey Parrot",
+        "de": "Graupapagei",
+        "fr": "Perroquet jaco",
+        "es": "Loro yaco",
+        "it": "Pappagallo cenerino"
+      },
+      "aliases": [
+        "Graupapagei",
+        "Grey Parrot",
+        "Loro yaco",
+        "Pappagallo cenerino",
+        "Perroquet jaco",
+        "Psittacus erithacus"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q220328",
+      "wikidataId": "Q220328",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q220328",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Psittacula krameri",
+      "labels": {
+        "en": "Rose-ringed Parakeet",
+        "de": "Halsbandsittich",
+        "es": "Cotorra de Kramer",
+        "fr": "Perruche à collier",
+        "it": "Parrocchetto dal collare"
+      },
+      "aliases": [
+        "Cotorra de Kramer",
+        "Halsbandsittich",
+        "Parrocchetto dal collare",
+        "Perruche à collier",
+        "Psittacula krameri",
+        "Rose-ringed Parakeet"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q208060",
+      "wikidataId": "Q208060",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q208060",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Forpus coelestis",
+      "labels": {
+        "en": "Pacific Parrotlet",
+        "de": "Himmelsperlingspapagei",
+        "es": "Cotorrita de Piura",
+        "fr": "Toui céleste",
+        "it": "Pappagallino del Pacifico"
+      },
+      "aliases": [
+        "Cotorrita de Piura",
+        "Forpus coelestis",
+        "Himmelsperlingspapagei",
+        "Pacific Parrotlet",
+        "Pappagallino del Pacifico",
+        "Toui céleste"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q882870",
+      "wikidataId": "Q882870",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q882870",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Pyrrhura molinae",
+      "labels": {
+        "en": "Green-cheeked Parakeet",
+        "de": "Molinasittich",
+        "es": "Cotorra de Molina",
+        "fr": "Conure de Molina",
+        "it": "Parrocchetto guanceverdi"
+      },
+      "aliases": [
+        "Conure de Molina",
+        "Cotorra de Molina",
+        "Green-cheeked Parakeet",
+        "Molinasittich",
+        "Parrocchetto guanceverdi",
+        "Pyrrhura molinae"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1043401",
+      "wikidataId": "Q1043401",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q1043401",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Taeniopygia castanotis",
+      "labels": {
+        "en": "Australian Zebra Finch",
+        "fr": "Mandarin d'Australie",
+        "es": "Taeniopygia castanotis",
+        "de": "Zebraamadine",
+        "it": "Taeniopygia castanotis"
+      },
+      "aliases": [
+        "Australian Zebra Finch",
+        "Mandarin d'Australie",
+        "Taeniopygia castanotis",
+        "Taeniopygia guttata castanotis",
+        "Zebraamadine"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q55111699",
+      "wikidataId": "Q55111699",
+      "fallbackLocales": [
+        "es",
+        "it"
+      ],
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q55111699",
+      "kind": "species",
+      "group": "Oiseau",
+      "scientificLabelLocales": [
+        "es",
+        "it"
+      ]
+    },
+    {
+      "scientificName": "Aratinga solstitialis",
+      "labels": {
+        "en": "Sun Conure",
+        "de": "Sonnensittich",
+        "es": "Cotorrita del sol",
+        "fr": "Conure soleil",
+        "it": "Parrocchetto del sole"
+      },
+      "aliases": [
+        "Aratinga solstitialis",
+        "Conure soleil",
+        "Cotorrita del sol",
+        "Parrocchetto del sole",
+        "Sonnensittich",
+        "Sun Conure"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q225039",
+      "wikidataId": "Q225039",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q225039",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Myiopsitta monachus",
+      "labels": {
+        "en": "Monk Parakeet",
+        "de": "Mönchssittich",
+        "es": "Cotorra argentina",
+        "fr": "Conure veuve",
+        "it": "Parrocchetto monaco"
+      },
+      "aliases": [
+        "Conure veuve",
+        "Cotorra argentina",
+        "Monk Parakeet",
+        "Myiopsitta monachus",
+        "Mönchssittich",
+        "Parrocchetto monaco"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q724987",
+      "wikidataId": "Q724987",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q724987",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Pionus menstruus",
+      "labels": {
+        "en": "Blue-headed Parrot",
+        "es": "Loro cabeciazul",
+        "de": "Schwarzohrpapagei",
+        "fr": "Pione à tête bleue",
+        "it": "Pappagallo testablu"
+      },
+      "aliases": [
+        "Blue-headed Parrot",
+        "Loro cabeciazul",
+        "Pappagallo testablu",
+        "Pione à tête bleue",
+        "Pionus menstruus",
+        "Schwarzohrpapagei"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q641947",
+      "wikidataId": "Q641947",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q641947",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Amazona aestiva",
+      "labels": {
+        "en": "Turquoise-fronted Amazon",
+        "de": "Rotbugamazone",
+        "es": "Amazona frentiazul",
+        "fr": "Amazone à front bleu",
+        "it": "Amazzone fronteblu"
+      },
+      "aliases": [
+        "Amazona aestiva",
+        "Amazona frentiazul",
+        "Amazone à front bleu",
+        "Amazzone fronteblu",
+        "Rotbugamazone",
+        "Turquoise-fronted Amazon"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q525897",
+      "wikidataId": "Q525897",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q525897",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Amazona amazonica",
+      "labels": {
+        "en": "Orange-winged Amazon",
+        "es": "Amazona alinaranja",
+        "de": "Venezuelaamazone",
+        "fr": "Amazone aourou",
+        "it": "Amazzone aliarancio"
+      },
+      "aliases": [
+        "Amazona alinaranja",
+        "Amazona amazonica",
+        "Amazone aourou",
+        "Amazzone aliarancio",
+        "Orange-winged Amazon",
+        "Venezuelaamazone"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q586803",
+      "wikidataId": "Q586803",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q586803",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Cacatua galerita",
+      "labels": {
+        "en": "Sulphur-crested Cockatoo",
+        "de": "Gelbhaubenkakadu",
+        "es": "Cacatúa galerita",
+        "fr": "Cacatoès à huppe jaune",
+        "it": "Cacatua crestazolfo"
+      },
+      "aliases": [
+        "Cacatoès à huppe jaune",
+        "Cacatua crestazolfo",
+        "Cacatua galerita",
+        "Cacatúa galerita",
+        "Gelbhaubenkakadu",
+        "Sulphur-crested Cockatoo"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q207107",
+      "wikidataId": "Q207107",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q207107",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Eolophus roseicapilla",
+      "labels": {
+        "en": "Galah",
+        "de": "Rosakakadu",
+        "es": "Cacatúa galah",
+        "fr": "Cacatoès rosalbin",
+        "it": "Cacatua rosato"
+      },
+      "aliases": [
+        "Cacatoès rosalbin",
+        "Cacatua rosato",
+        "Cacatúa galah",
+        "Eolophus roseicapilla",
+        "Galah",
+        "Rosakakadu"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1253755",
+      "wikidataId": "Q1253755",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q1253755",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Columba livia",
+      "labels": {
+        "en": "Rock Dove",
+        "es": "Paloma bravía",
+        "fr": "Pigeon biset",
+        "de": "Felsentaube",
+        "it": "Piccione selvatico"
+      },
+      "aliases": [
+        "Columba livia",
+        "Felsentaube",
+        "Paloma bravía",
+        "Piccione selvatico",
+        "Pigeon biset",
+        "Rock Dove"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q42326",
+      "wikidataId": "Q42326",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q42326",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Lonchura oryzivora",
+      "labels": {
+        "en": "Java Sparrow",
+        "de": "Javareisfink",
+        "es": "Capuchino Arrocero de Java",
+        "fr": "Padda de Java",
+        "it": "Passero di Giava"
+      },
+      "aliases": [
+        "Capuchino Arrocero de Java",
+        "Java Sparrow",
+        "Javareisfink",
+        "Lonchura oryzivora",
+        "Padda de Java",
+        "Padda oryzivora",
+        "Passero di Giava"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q25185408",
+      "wikidataId": "Q25185408",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q25185408",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Neophema splendida",
+      "labels": {
+        "en": "Scarlet-chested Parrot",
+        "de": "Glanzsittich",
+        "es": "Periquito espléndido",
+        "fr": "Perruche splendide",
+        "it": "Pappagallo pettoscarlatto"
+      },
+      "aliases": [
+        "Glanzsittich",
+        "Neophema splendida",
+        "Pappagallo pettoscarlatto",
+        "Periquito espléndido",
+        "Perruche splendide",
+        "Scarlet-chested Parrot"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1048794",
+      "wikidataId": "Q1048794",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q1048794",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Neopsephotus bourkii",
+      "labels": {
+        "en": "Bourke's Parrot",
+        "de": "Bourkesittich",
+        "es": "Periquito rosado",
+        "fr": "Perruche de Bourke",
+        "it": "Pappagallo di Bourke"
+      },
+      "aliases": [
+        "Bourke's Parrot",
+        "Bourkesittich",
+        "Neopsephotus bourkii",
+        "Pappagallo di Bourke",
+        "Periquito rosado",
+        "Perruche de Bourke"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q848617",
+      "wikidataId": "Q848617",
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q848617",
+      "kind": "species",
+      "group": "Oiseau",
+      "fallbackLocales": [],
+      "scientificLabelLocales": []
+    },
+    {
+      "scientificName": "Psittacus timneh",
+      "labels": {
+        "en": "Timneh Parrot",
+        "de": "Timnehgraupapagei",
+        "es": "Loro timneh",
+        "fr": "Perroquet timneh",
+        "it": "Psittacus timneh"
+      },
+      "aliases": [
+        "Loro timneh",
+        "Perroquet timneh",
+        "Psittacus timneh",
+        "Timneh Parrot",
+        "Timnehgraupapagei"
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q5466341",
+      "wikidataId": "Q5466341",
+      "fallbackLocales": [
+        "it"
+      ],
+      "consultedAt": "2026-10-19",
+      "sourceLicense": "CC0-1.0",
+      "id": "bird:Q5466341",
+      "kind": "species",
+      "group": "Oiseau",
+      "scientificLabelLocales": [
+        "it"
+      ]
+    }
+  ],
+  "taxonomyNotes": [
+    "These are species, not breeds or colour mutations. Scientific names and Wikidata identifiers were individually verified.",
+    "Taeniopygia castanotis denotes the Australian zebra finch, distinguished from the Sunda zebra finch Taeniopygia guttata.",
+    "Serinus canaria is the canary species; the domestic canary form is not entered as a separate species.",
+    "Catalogue entries identify existing pets and are not recommendations for wildlife acquisition. This is a curated starter selection, not an exhaustive avian taxonomy.",
+    "Cricetulus griseus is retained as the verified source species concept; some classifications use Cricetulus barabensis griseus.",
+    "Goldfish varieties are recorded as varieties of Carassius auratus, never as independent species."
+  ],
+  "licenseScope": "Wikidata structured taxon facts, labels and sitelinks only; Commons reference-page wikitext is not relicensed as CC0.",
+  "provenanceReviewedAt": "2026-10-20",
+  "commonsReferenceLicense": "CC-BY-SA-4.0",
+  "commonsReferencePolicyUrl": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia"
+}

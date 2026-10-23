@@ -1,0 +1,289 @@
+Ani’Moi V2 — sources et licences des catalogues de races, espèces et variétés
+Catalogue hors ligne version 1, préparé le 19 octobre 2026.
+
+SOURCE PRINCIPALE
+Vertebrate Breed Ontology (VBO), version 2026-04-15.
+Attribution : Monarch Initiative et contributeurs de la Vertebrate Breed Ontology.
+Projet : https://github.com/monarch-initiative/vertebrate-breed-ontology
+Documentation : https://monarch-initiative.github.io/vertebrate-breed-ontology/
+Licence : Creative Commons Attribution 4.0 International (CC-BY-4.0)
+https://creativecommons.org/licenses/by/4.0/
+Source épinglée : https://raw.githubusercontent.com/monarch-initiative/vertebrate-breed-ontology/7c6f8721895b0843d45698e757e08a2a202c684e/vbo-simple.json
+SHA-256 : 7789aae2ea797a0e4a36e76015ab0c71dfe2026e9db3b09a3c23e1e45b180e18
+
+Adaptations par Ani’Moi : extraction des descendants Chien, Chat, Lapin et Cheval ;
+exclusion des termes obsolètes, des populations géographiques et générales DAD-IS,
+de 21 statuts ou concepts génériques et de 15 taxons sauvages ; fusion des noms
+canoniques identiques après normalisation ;
+conservation des synonymes et des identifiants ; ajout de noms multilingues.
+Les descriptions, photos, standards et logos des organismes de races ne sont
+pas repris.
+
+2 293 entrées : 1 418 chiens, 284 chats, 194 lapins, 397 chevaux.
+Ces noms comprennent des variantes et des croisements nommés présents dans VBO.
+Ce catalogue n’est pas un registre de pedigree ni une certification de race.
+
+COMPLÉMENT MULTILINGUE
+Wikidata et ses contributeurs, données structurées CC0 1.0.
+https://www.wikidata.org/wiki/Wikidata:Licensing
+https://creativecommons.org/publicdomain/zero/1.0/
+75 entrées courantes enrichies à partir des titres des liens interlangues
+frwiki, enwiki, eswiki, dewiki et itwiki des fiches ci-dessous, consultées le
+19 octobre 2026. Les précisions génériques d’homonymie sont retirées.
+Les noms sources et noms multilingues restent recherchables comme alias.
+
+Les cinq langues de l’interface sont prises en charge. Lorsqu’un nom traduit
+n’a pas été obtenu dans la source, le nom canonique VBO est conservé tel quel,
+sans traduction automatique ni traduction inventée. Les langues concernées
+sont indiquées par fallbackLocales dans chaque entrée de breeds.js.
+L’enrichissement des noms multilingues reste partiel.
+
+LIMITES
+Couverture communautaire étendue, non exhaustive et non officielle ; possibles
+synonymes proches, variantes historiques, erreurs ou races manquantes.
+Les termes propres aux populations nationales sont volontairement écartés pour
+ne pas les présenter comme races universelles ; certaines races locales ne
+figurent donc pas dans la sélection.
+Aucune race n’est imposée aux rubriques Oiseau, Poisson, Hamster et Autre :
+le champ reste facultatif et permet de décrire le type ou l’espèce.
+Les trois choix Race connue, Race inconnue et Non pertinent pour cette espèce
+sont gérés par l’application indépendamment du catalogue. Les anciens statuts
+restent lisibles pour conserver les profils et sauvegardes historiques.
+
+Les adaptations n’impliquent aucune approbation de VBO, de Wikidata ou d’un
+organisme de races. Aucune donnée d’utilisateur n’est envoyée aux sources.
+Le catalogue est livré avec l’application et fonctionne hors connexion.
+Reproduction : scripts/import-breeds.py et scripts/breed-labels-wikidata.json
+dans le dépôt Ani’Moi ; documentation : docs/CATALOGUE-SOURCES.md.
+
+FICHES WIKIDATA CONSULTÉES
+
+CATALOGUE COMPLÉMENTAIRE D’ESPÈCES ET DE VARIÉTÉS
+Fichier : catalogs/species.js — version 1 — consultation du 19 octobre 2026.
+63 entrées : 31 espèces de poissons, 3 variétés de poisson rouge,
+24 espèces d’oiseaux et 5 espèces de hamsters.
+
+Attribution : Wikidata et ses contributeurs, données structurées CC0 1.0.
+https://www.wikidata.org/wiki/Wikidata:Licensing
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Noms scientifiques (P225), libellés d’entités et titres de liens interlangues
+Wikidata ; noms vernaculaires également recoupés dans des encadrés VN Commons.
+Une catégorie Commons peut mélanger des données Wikidata et des noms saisis
+manuellement : son URL seule ne démontre pas une origine P1843.
+Les identifiants QID sont ceux des fiches réellement consultées ; ils ne sont
+pas déduits ni inventés. Adaptations : sélection, séparation espèces/variétés,
+libellés de présentation, retrait des homonymies génériques et alias de recherche.
+Pas de description, image ou conseil d’entretien reproduit.
+
+Les cinq langues disposent d’un libellé. Le nom scientifique universel est
+conservé lorsqu’aucun nom vernaculaire n’a été vérifié ; scientificLabelLocales
+et fallbackLocales rendent ces limites explicites. Les noms propres de variétés
+peuvent rester identiques selon la langue. Pas de traduction automatique.
+
+Espèces et variétés sont distinctes : Shubunkin, Ranchu et Télescope portent
+kind: variety et varietyOf: fish:Q123141 (Carassius auratus).
+Le mandarin australien Taeniopygia castanotis est distingué du mandarin de la
+Sonde Taeniopygia guttata ; Serinus canaria est l’espèce du canari.
+Cricetulus griseus est retenu comme concept d’espèce vérifié ; certaines
+classifications le nomment Cricetulus barabensis griseus.
+
+Sélection pratique non exhaustive, destinée à identifier des animaux existants,
+sans certification ni recommandation d’acquisition. Pas de catalogue exhaustif
+des mutations de couleur ou plumage. Précisions personnalisées possibles.
+Aucune donnée d’utilisateur n’est envoyée à Wikidata ou à Commons.
+
+DISTINCTION DES SOURCES — revue du 20 octobre 2026
+Les pages de référence Commons ne sont pas globalement sous CC0. Leur texte
+non structuré est attribué séparément aux contributeurs Wikimedia Commons,
+sous Creative Commons Attribution-ShareAlike 4.0 :
+https://creativecommons.org/licenses/by-sa/4.0/
+https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia
+Le modèle VN peut afficher des libellés Wikidata et des noms saisis manuellement :
+https://commons.wikimedia.org/wiki/Template:VN
+Le catalogue reprend uniquement des noms courts et faits taxonomiques. Il ne
+reproduit ni prose de catégorie, ni code de modèle, ni illustration. Les mentions
+CC0 concernent les données structurées Wikidata, sans requalifier le wikitexte
+Commons. Les pages de recoupement nominal sont citées ci-dessous.
+
+Snapshot : scripts/species-catalogue-data.json
+Reproduction entièrement hors ligne : python scripts/import-species.py
+
+FICHES CONSULTÉES POUR LES ESPÈCES ET VARIÉTÉS
+Poisson — Betta splendens — combattant: https://www.wikidata.org/wiki/Q549
+Poisson — Poecilia wingei — Poecilia wingei: https://www.wikidata.org/wiki/Q1340577
+Poisson — Xiphophorus hellerii — Xipho: https://www.wikidata.org/wiki/Q272188
+Poisson — Xiphophorus maculatus — Platy: https://www.wikidata.org/wiki/Q1162971
+Poisson — Poecilia sphenops — Molly: https://www.wikidata.org/wiki/Q177832
+Poisson — Danio rerio — Poisson zèbre: https://www.wikidata.org/wiki/Q169444
+Poisson — Danio margaritatus — Danio margaritatus: https://www.wikidata.org/wiki/Q685364
+Poisson — Paracheirodon innesi — Néon bleu: https://www.wikidata.org/wiki/Q131431
+Poisson — Paracheirodon axelrodi — Paracheirodon axelrodi: https://www.wikidata.org/wiki/Q590731
+Poisson — Hyphessobrycon amandae — Hyphessobrycon amandae: https://www.wikidata.org/wiki/Q923185
+Poisson — Pterophyllum scalare — Scalaire: https://www.wikidata.org/wiki/Q827441
+Poisson — Symphysodon aequifasciatus — Discus commun: https://www.wikidata.org/wiki/Q3091839
+Poisson — Trichogaster lalius — Gourami nain: https://www.wikidata.org/wiki/Q244123
+Poisson — Trichopodus leerii — Gourami perlé: https://www.wikidata.org/wiki/Q14505073
+Poisson — Trichogaster chuna — Gourami miel: https://www.wikidata.org/wiki/Q1230573
+Poisson — Macropodus opercularis — Macropodus opercularis: https://www.wikidata.org/wiki/Q304256
+Poisson — Mikrogeophagus ramirezi — Mikrogeophagus ramirezi: https://www.wikidata.org/wiki/Q260468
+Poisson — Astronotus ocellatus — Oscar: https://www.wikidata.org/wiki/Q3442
+Poisson — Ancistrus dolichopterus — Ancistrus dolichopterus: https://www.wikidata.org/wiki/Q882607
+Poisson — Amphiprion ocellaris — Poisson-clown à trois bandes: https://www.wikidata.org/wiki/Q1126155
+Poisson — Paracanthurus hepatus — Chirurgien Bleu: https://www.wikidata.org/wiki/Q278307
+Poisson — Zebrasoma flavescens — Chirurgien jaune: https://www.wikidata.org/wiki/Q900868
+Poisson — Pterapogon kauderni — Apogon de Kaudern: https://www.wikidata.org/wiki/Q428921
+Poisson — Chromis viridis — Chromis viridis: https://www.wikidata.org/wiki/Q98099531
+Poisson — Epalzeorhynchos bicolor — Labéo bicolore: https://www.wikidata.org/wiki/Q301058
+Poisson — Aphyosemion australe — Cap-Lopez: https://www.wikidata.org/wiki/Q384439
+Poisson — Melanotaenia boesemani — Melanotaenia boesemani: https://www.wikidata.org/wiki/Q833254
+Poisson — Tanichthys albonubes — Néon du pauvre: https://www.wikidata.org/wiki/Q1136461
+Hamster — Mesocricetus auratus — Hamster doré: https://www.wikidata.org/wiki/Q204175
+Hamster — Phodopus sungorus — Hamster russe: https://www.wikidata.org/wiki/Q214633
+Hamster — Phodopus campbelli — Hamster de Campbell: https://www.wikidata.org/wiki/Q838784
+Hamster — Phodopus roborovskii — Hamster de Roborovski: https://www.wikidata.org/wiki/Q729420
+Hamster — Cricetulus griseus — Hamster de Chine: https://www.wikidata.org/wiki/Q2539773
+Poisson — Carassius auratus — Poisson rouge: https://www.wikidata.org/wiki/Q123141
+Poisson — Poecilia reticulata — Guppy: https://www.wikidata.org/wiki/Q178202
+Poisson — Trichopodus trichopterus — Gourami bleu: https://www.wikidata.org/wiki/Q10866107
+Variété de poisson rouge — Carassius auratus — Ranchu: https://www.wikidata.org/wiki/Q1854941
+Variété de poisson rouge — Carassius auratus — Télescope: https://www.wikidata.org/wiki/Q586166
+Variété de poisson rouge — Carassius auratus — Shubunkin: https://www.wikidata.org/wiki/Q2007814
+Oiseau — Melopsittacus undulatus — Perruche ondulée: https://www.wikidata.org/wiki/Q121221
+Oiseau — Nymphicus hollandicus — Calopsitte élégante: https://www.wikidata.org/wiki/Q514809
+Oiseau — Serinus canaria — Serin des Canaries: https://www.wikidata.org/wiki/Q192524
+Oiseau — Agapornis roseicollis — Inséparable rosegorge: https://www.wikidata.org/wiki/Q632213
+Oiseau — Chloebia gouldiae — Diamant de Gould: https://www.wikidata.org/wiki/Q752146
+Oiseau — Agapornis fischeri — Inséparable de Fischer: https://www.wikidata.org/wiki/Q603875
+Oiseau — Agapornis personatus — Inséparable masqué: https://www.wikidata.org/wiki/Q753748
+Oiseau — Psittacus erithacus — Perroquet jaco: https://www.wikidata.org/wiki/Q220328
+Oiseau — Psittacula krameri — Perruche à collier: https://www.wikidata.org/wiki/Q208060
+Oiseau — Forpus coelestis — Toui céleste: https://www.wikidata.org/wiki/Q882870
+Oiseau — Pyrrhura molinae — Conure de Molina: https://www.wikidata.org/wiki/Q1043401
+Oiseau — Taeniopygia castanotis — Mandarin d'Australie: https://www.wikidata.org/wiki/Q55111699
+Oiseau — Aratinga solstitialis — Conure soleil: https://www.wikidata.org/wiki/Q225039
+Oiseau — Myiopsitta monachus — Conure veuve: https://www.wikidata.org/wiki/Q724987
+Oiseau — Pionus menstruus — Pione à tête bleue: https://www.wikidata.org/wiki/Q641947
+Oiseau — Amazona aestiva — Amazone à front bleu: https://www.wikidata.org/wiki/Q525897
+Oiseau — Amazona amazonica — Amazone aourou: https://www.wikidata.org/wiki/Q586803
+Oiseau — Cacatua galerita — Cacatoès à huppe jaune: https://www.wikidata.org/wiki/Q207107
+Oiseau — Eolophus roseicapilla — Cacatoès rosalbin: https://www.wikidata.org/wiki/Q1253755
+Oiseau — Columba livia — Pigeon biset: https://www.wikidata.org/wiki/Q42326
+Oiseau — Lonchura oryzivora — Padda de Java: https://www.wikidata.org/wiki/Q25185408
+Oiseau — Neophema splendida — Perruche splendide: https://www.wikidata.org/wiki/Q1048794
+Oiseau — Neopsephotus bourkii — Perruche de Bourke: https://www.wikidata.org/wiki/Q848617
+Oiseau — Psittacus timneh — Perroquet timneh: https://www.wikidata.org/wiki/Q5466341
+
+Chien — Affenpinscher: https://www.wikidata.org/wiki/Q7254
+Chien — Afghan Hound: https://www.wikidata.org/wiki/Q21080
+Chien — Airedale Terrier: https://www.wikidata.org/wiki/Q37617
+Chien — Akita: https://www.wikidata.org/wiki/Q29164
+Chien — Alaskan Malamute: https://www.wikidata.org/wiki/Q21206
+Chien — Australian Shepherd: https://www.wikidata.org/wiki/Q37629
+Chien — beagle: https://www.wikidata.org/wiki/Q21102
+Chien — Belgian Shepherd: https://www.wikidata.org/wiki/Q37624
+Chien — Groenendael: https://www.wikidata.org/wiki/Q38399
+Chien — Belgian Malinois: https://www.wikidata.org/wiki/Q38494
+Chien — Bernese Mountain Dog: https://www.wikidata.org/wiki/Q37608
+Chien — Bichon Frisé: https://www.wikidata.org/wiki/Q37600
+Chien — Boxer: https://www.wikidata.org/wiki/Q38496
+Chien — Bull Terrier: https://www.wikidata.org/wiki/Q38322
+Chien — Bulldog: https://www.wikidata.org/wiki/Q38383
+Chien — Cane Corso: https://www.wikidata.org/wiki/Q21082
+Chien — Cavalier King Charles Spaniel: https://www.wikidata.org/wiki/Q38072
+Chien — Chihuahua: https://www.wikidata.org/wiki/Q653
+Chien — Chow Chow: https://www.wikidata.org/wiki/Q29013
+Chien — dachshund: https://www.wikidata.org/wiki/Q29099
+Chien — Dalmatian: https://www.wikidata.org/wiki/Q17504
+Chien — English Cocker Spaniel: https://www.wikidata.org/wiki/Q38533
+Chien — French Bulldog: https://www.wikidata.org/wiki/Q29149
+Chien — Golden Retriever: https://www.wikidata.org/wiki/Q38686
+Chien — Great Dane: https://www.wikidata.org/wiki/Q5414
+Chien — greyhound: https://www.wikidata.org/wiki/Q38571
+Chien — Jack Russell Terrier: https://www.wikidata.org/wiki/Q38287
+Chien — Labrador Retriever: https://www.wikidata.org/wiki/Q38726
+Chien — Newfoundland dog: https://www.wikidata.org/wiki/Q38706
+Chien — Pekingese: https://www.wikidata.org/wiki/Q38959
+Chien — Pomeranian: https://www.wikidata.org/wiki/Q39579
+Chien — pug: https://www.wikidata.org/wiki/Q38698
+Chien — Rottweiler: https://www.wikidata.org/wiki/Q39093
+Chien — St. Bernard: https://www.wikidata.org/wiki/Q38090
+Chien — Samoyed: https://www.wikidata.org/wiki/Q39002
+Chien — Shar Pei: https://www.wikidata.org/wiki/Q38972
+Chien — Shiba Inu: https://www.wikidata.org/wiki/Q39315
+Chien — Staffordshire Bull Terrier: https://www.wikidata.org/wiki/Q39285
+Chien — West Highland White Terrier: https://www.wikidata.org/wiki/Q17510
+Chien — White Swiss Shepherd: https://www.wikidata.org/wiki/Q37934
+Chien — Yorkshire Terrier: https://www.wikidata.org/wiki/Q39330
+Chien — German Shepherd: https://www.wikidata.org/wiki/Q38280
+Chat — Abyssinian: https://www.wikidata.org/wiki/Q7955
+Chat — American Bobtail: https://www.wikidata.org/wiki/Q7874
+Chat — American Curl: https://www.wikidata.org/wiki/Q7960
+Chat — American Shorthair: https://www.wikidata.org/wiki/Q7962
+Chat — Balinese cat: https://www.wikidata.org/wiki/Q9665
+Chat — Bengal cat: https://www.wikidata.org/wiki/Q42583
+Chat — Bombay: https://www.wikidata.org/wiki/Q42566
+Chat — British Longhair: https://www.wikidata.org/wiki/Q29268
+Chat — British Shorthair: https://www.wikidata.org/wiki/Q29273
+Chat — Burmese: https://www.wikidata.org/wiki/Q42573
+Chat — Burmilla: https://www.wikidata.org/wiki/Q29258
+Chat — Chartreux: https://www.wikidata.org/wiki/Q42588
+Chat — Cornish Rex: https://www.wikidata.org/wiki/Q42559
+Chat — Egyptian Mau: https://www.wikidata.org/wiki/Q7295
+Chat — European Shorthair: https://www.wikidata.org/wiki/Q20793
+Chat — Exotic Shorthair: https://www.wikidata.org/wiki/Q42555
+Chat — Thai: https://www.wikidata.org/wiki/Q42732
+Chat — Tonkinese: https://www.wikidata.org/wiki/Q42726
+Chat — Toyger: https://www.wikidata.org/wiki/Q7323
+Chat — Turkish Angora: https://www.wikidata.org/wiki/Q42720
+Chat — Turkish Van: https://www.wikidata.org/wiki/Q42724
+Lapin — Holland Lop: https://www.wikidata.org/wiki/Q853488
+Cheval — Thoroughbred: https://www.wikidata.org/wiki/Q210826
+Cheval — Trakehner: https://www.wikidata.org/wiki/Q843585
+Cheval — Anglo-Arabian: https://www.wikidata.org/wiki/Q541046
+Chat — Siamese: https://www.wikidata.org/wiki/Q42604
+Chat — Persian cat: https://www.wikidata.org/wiki/Q42610
+Chat — Birman cat: https://www.wikidata.org/wiki/Q42563
+Chat — Ragdoll: https://www.wikidata.org/wiki/Q42688
+Chien — poodle: https://www.wikidata.org/wiki/Q38904
+Chien — border collie: https://www.wikidata.org/wiki/Q37710
+Chat — Norwegian Forest Cat: https://www.wikidata.org/wiki/Q42667
+Chat — Maine coon: https://www.wikidata.org/wiki/Q42659
+
+CATÉGORIES COMMONS DE RECOUPEMENT NOMINAL
+https://commons.wikimedia.org/wiki/Category:Amphiprion_ocellaris
+https://commons.wikimedia.org/wiki/Category:Ancistrus_dolichopterus
+https://commons.wikimedia.org/wiki/Category:Aphyosemion_australe
+https://commons.wikimedia.org/wiki/Category:Astronotus_ocellatus
+https://commons.wikimedia.org/wiki/Category:Betta_splendens
+https://commons.wikimedia.org/wiki/Category:Carassius_auratus
+https://commons.wikimedia.org/wiki/Category:Chromis_viridis
+https://commons.wikimedia.org/wiki/Category:Cricetulus_griseus
+https://commons.wikimedia.org/wiki/Category:Danio_margaritatus
+https://commons.wikimedia.org/wiki/Category:Danio_rerio
+https://commons.wikimedia.org/wiki/Category:Epalzeorhynchos_bicolor
+https://commons.wikimedia.org/wiki/Category:Hyphessobrycon_amandae
+https://commons.wikimedia.org/wiki/Category:Macropodus_opercularis
+https://commons.wikimedia.org/wiki/Category:Melanotaenia_boesemani
+https://commons.wikimedia.org/wiki/Category:Mesocricetus_auratus
+https://commons.wikimedia.org/wiki/Category:Mikrogeophagus_ramirezi
+https://commons.wikimedia.org/wiki/Category:Paracanthurus_hepatus
+https://commons.wikimedia.org/wiki/Category:Paracheirodon_axelrodi
+https://commons.wikimedia.org/wiki/Category:Paracheirodon_innesi
+https://commons.wikimedia.org/wiki/Category:Phodopus_campbelli
+https://commons.wikimedia.org/wiki/Category:Phodopus_roborovskii
+https://commons.wikimedia.org/wiki/Category:Phodopus_sungorus
+https://commons.wikimedia.org/wiki/Category:Poecilia_reticulata
+https://commons.wikimedia.org/wiki/Category:Poecilia_sphenops
+https://commons.wikimedia.org/wiki/Category:Poecilia_wingei
+https://commons.wikimedia.org/wiki/Category:Pterapogon_kauderni
+https://commons.wikimedia.org/wiki/Category:Pterophyllum_scalare
+https://commons.wikimedia.org/wiki/Category:Symphysodon_aequifasciatus
+https://commons.wikimedia.org/wiki/Category:Tanichthys_albonubes
+https://commons.wikimedia.org/wiki/Category:Trichogaster_chuna
+https://commons.wikimedia.org/wiki/Category:Trichogaster_lalius
+https://commons.wikimedia.org/wiki/Category:Trichopodus_leerii
+https://commons.wikimedia.org/wiki/Category:Trichopodus_trichopterus
+https://commons.wikimedia.org/wiki/Category:Xiphophorus_hellerii
+https://commons.wikimedia.org/wiki/Category:Xiphophorus_maculatus
+https://commons.wikimedia.org/wiki/Category:Zebrasoma_flavescens
